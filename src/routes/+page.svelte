@@ -27,30 +27,6 @@
 
 	<h1>Background and overview</h1>
 
-	<!-- TEMPLATE -->
-	<Bullet>
-		<span slot="outer">This is the outer content.</span>
-		<div slot="inner">
-			<li>First item of the list</li>
-			<li>Second item of the list</li>
-		</div>
-	</Bullet>
-
-	<Bullet>
-		<span slot="outer">This is the outer content.</span>
-		<div slot="inner">
-			<li>First item of the list</li>
-			<li>Second item of the list</li>
-			<InnerBullet>
-				<span slot="outer">testing this</span>
-				<span slot="inner">
-					<li>First item of the list</li>
-				</span>
-			</InnerBullet>
-			<!-- Add as many list items as needed -->
-		</div>
-	</Bullet>
-
 	<p>
 		This case study investigates safety standards applied to investor-owned electrical companies in
 		California (‘utilities’) to reduce the risk of utility equipment igniting catastrophic
@@ -196,6 +172,8 @@
 		Each section contains bullet points that can be clicked to expand and reveal additional detail.
 	</p>
 	<h1>The need for safety standards</h1>
+
+	<p class="italic">(Click any bullet to show more)</p>
 
 	<Bullet>
 		<span slot="outer">California wildfires cause significant death and destruction. </span>
@@ -410,7 +388,7 @@
 	<div class=" py-1 pr-5 bg-slate-800 rounded-md mt-5">
 		<Bullet>
 			<span slot="outer"
-				><div class="text-lg font-semibold pb-3">Wildfire Mitigation Plan components</div></span
+				><div class="text-lg font-semibold pb-4">Wildfire Mitigation Plan components</div></span
 			>
 			<div slot="inner" class="-mt-2 pb-3">
 				<li>
@@ -484,6 +462,317 @@
 		</Bullet>
 	</div>
 
+	<h1>Key takeaways</h1>
+
+	<h2>Proactvity vs. reactivity</h2>
+
+	<ul>
+		<li>
+			When starting from a low base, creating and enforcing standards can be a lengthy process – it
+			took roughly 5-10+ years after it was clear that catastrophic risk was present and rising for
+			standards to be created and have a meaningful impact across all utilities. This point is
+			summarized in the bullets below and explored in more detail in this text box. link
+		</li>
+		<ul>
+			<li>
+				Until legislation required stricter regulation in (particularly starting in 2017),
+				regulators lacked sufficient capacity and will to impose rules in the face of opposition
+				from most utilities.
+			</li>
+			<li>
+				It then took several years to determine an appropriate regulatory framework and build
+				internal expertise.
+			</li>
+			<li>
+				This was followed by a year or two during which regulators approved substandard safety plans
+				on the condition that utilities would build capacity for improving safety over time.
+			</li>
+		</ul>
+	</ul>
+
+	<Bullet>
+		<span slot="outer"
+			>Amid a changing risk landscape, it appears unlikely that any particular company will take
+			tail risk sufficiently seriously until it experiences it first hand, even when such risk would
+			threaten company profits. More concerningly in this case, regulators have not mandated
+			stricter safety standards for utilities until that utility has caused a disaster. <strong>
+				Some events that look like ‘warning shots’ in hindsight did not sufficiently spur urgent
+				safety improvements.
+			</strong>
+			<i>(Click to see some examples of events that could have been viewed as warning shots)</i
+			></span
+		>
+		<div slot="inner">
+			<li>
+				Events that drew attention to catastrophic threat but failed to spur significant action
+				include the following:
+			</li>
+			<ul>
+				<li>
+					San Diego Gas and Electric (SDG&E) equipment <a
+						href="https://www.latimes.com/business/hiltzik/la-fi-hiltzik-sdge-wildfires-20170112-story.html"
+						>sparked a wildfire</a
+					>
+					in 2007 that killed two people and destroyed more than 1,500 homes. This prompted the utility
+					to significantly increase its focus on fire prevention (<em>see more here </em>link ). The
+					fire also increased CPUC efforts to increase safety standards on all utilities, but
+					resulted in little meaningful regulatory change.
+				</li>
+				<li>
+					In 2015, PG&E equipment sparked the <a
+						href="https://www.fire.ca.gov/incidents/2015/9/9/butte-fire/">Butte fire</a
+					>
+					that killed two people. (<em
+						>See more about the history of increasing fire risk here
+					</em>link<em>). </em>While the CPUC did require some safety action during this period, it
+					did not require PG&E to create a wildfire safety plan until mandated by legislation in
+					2017. Link Its first 2019 WMP came after the company caused devastating fires in 2017 and
+					2018. link
+				</li>
+				<li>
+					PG&E was found to have deficiencies in its safety culture and practices in its gas
+					department, which led to a pipeline explosion that killed six people in 2010 (for which
+					the <a
+						href="https://abc7news.com/pge-fine-pacific-gas-and-electric-san-bruno-fire-explosion/1722674/"
+						>company was convicted</a
+					>
+					on six felony charges). This triggered significant efforts to improve the gas department’s
+					safety practices. This could have piqued investigations into the company’s electricity safety
+					culture, too. (While I’m not certain as to whether such investigations occurred, no significant
+					regulation forced improvements to PG&E’s (deficient) safety culture and practices related to
+					electrical equipment. link
+					<ul>
+						<li>
+							The Attorney prosecuting PG&E following the 2018 Camp Fire (which killed 85 people)
+							concluded that “a nearly identical dynamic had manifested within the electric
+							transmission division” as the gas division, where workers felt pressure to cut
+							operating and inspection costs, leading to insufficient safety checks.<sup id="fnref3"
+								><a href="#fn3" rel="footnote">3</a></sup
+							>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<strong>The pattern extends beyond California:</strong> One expert I spoke with (Michael
+					Wara) believes this pattern – whereby utilities fail to sufficiently take precaution (or
+					be forced by regulators to act) until they’ve caused a catastrophic fire – has been
+					playing out for utilities across the country, too. He stated that this reactivity will
+					likely lead to more disasters.<strong />In Hawaii, for example,
+					<a
+						href="https://twitter.com/michaelwwara/status/1709717342115057841?s=48&t=jvABLpmiJy24m6BINifJrQ"
+						>Hawaiian Electric</a
+					>
+					decided against using Public Safety Power Shutoffs (as is used by California utilities) and
+					deemed its coverage area to be less prone to catastrophic fires than California. Its equipment
+					then caused the 2023
+					<a href="https://www.nytimes.com/article/maui-wildfires-hawaii.html">Lahaina fire</a> that
+					killed about 100 people.
+				</li>
+			</ul>
+		</div>
+	</Bullet>
+
+	<div class=" py-1 pr-5 bg-slate-800 rounded-md mt-5">
+		<Bullet>
+			<span slot="outer"
+				><div class="text-lg font-semibold pb-4">The evolution of safety standards</div></span
+			>
+			<div slot="inner" class="-mt-2 pb-3">
+				<li>
+					<strong>Rising risk: </strong>Wildfire risk has risen quickly and substantially over the
+					past ~20 years (as indicated by many reports and all expert conversations). As one
+					example, the PG&E President stated that 15 percent of PG&E service territory (which covers
+					Northern and Central California) had been at high risk of fire in 2012, and that this
+					amount had more than tripled by 2019.<sup id="fnref4"
+						><a href="#fn4" rel="footnote">4</a></sup
+					>
+				</li>
+				<li>
+					<strong>Slow and limited regulation:</strong> In the late 2000s, the CPUC initiated
+					hearings regarding wildfire safety policies, and activists pushed for stricter regulation.
+					(<em>See more details about activist involvement and proposed policies here</em>link ).
+					The process was slow, adversarial, and
+					<a
+						href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+						>resulted in limited regulation</a
+					>
+					(especially on PG&E) during the late 2000s and most of the 2010s. (<em
+						>Click to see more)</em
+					>
+					<ul>
+						<li>
+							<a
+								href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+								>In 2012</a
+							>, the CPUC required Southern California Edison and SDG&E to create fire prevention
+							plans. It did not require PG&E to create such a plan, but required that PG&E make a
+							“good faith” effort to determine if such a plan was needed. PG&E determined a plan was
+							not necessary, but submitted a six-page summary of prevention and mitigation plan.
+						</li>
+						<li>
+							<a
+								href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+								>In 2014</a
+							>, amid ongoing drought, the CPUC mandated that utilities report each fire started by
+							its equipment (as opposed to only reporting fires more than 100 acres, the rule at the
+							time). This policy had been proposed in CPUC hearings six years earlier.
+						</li>
+						<li>
+							<a
+								href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+								>In 2015</a
+							>, after years of pushback from PG&E and SCE, the CPUC required mapping fire risks,
+							though safety advocates believed the requirements to be diluted.
+						</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Profit motive drove opposition from utilities: </strong>Two of the three largest
+					utilities (PG&E and Southern California Edison (SCE)) fought most efforts to increase
+					safety standards. PG&E in particular was highly
+					<a
+						href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+						>adversarial and effective</a
+					>
+					at slowing down regulation. “On a scale from one to 10, where 10 is really obstructive and
+					zero is completely cooperative, I would have put PG&E at a nine,” said Mark Ferron, a CPUC
+					commissioner from 2011 to 2014.”
+					<a
+						href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+						>Significant</a
+					>
+					<a
+						href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
+						>reporting</a
+					> suggests profit motive appeared to be the main reason for utility resistance.
+				</li>
+				<li>
+					<strong>Regulators lacked expertise:</strong> From
+					<a
+						href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+						>2008 - 2018</a
+					>, the CPUC “didn’t have a single staff member who specialized in wildfire prevention.
+					During that period, according to three former employees, the [CPUC] was hamstrung by too
+					few enforcement officers and distracted by simultaneous investigations into other utility
+					catastrophes, which allowed utility lawyers to dominate its proceedings.”
+				</li>
+				<li>
+					<strong
+						>Catastrophic fires caused by PG&E in 2017 sparked legislation to mandate WMPs.</strong
+					>
+					(<em>Click to see more)</em>
+					<ul>
+						<li>
+							Existing regulations were insufficient to mitigate catastrophic risk, at least in the
+							PG&E service territory. In 2017, PG&E equipment started <a
+								href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
+								>17 of 21 major Northern California fires</a
+							>, including fires that
+							<a
+								href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+								>killed 44 people</a
+							>. For many fires, regulators
+							<a
+								href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
+								>found</a
+							> “PG&E violated state law or could have done more to make its equipment safer.”
+						</li>
+						<li>
+							<strong>This prompted stricter regulation by the California legislature</strong>.
+							Following the fires, a law was passed requiring California’s utilities to develop “a
+							legally binding wildfire safety plan… or face criminal charges.” Wildfire Mitigation
+							Plans (WMPs) were first required in 2019.
+						</li>
+						<li>
+							In 2018, before the requirement for WMPs took effect, old and insufficiently inspected
+							PG&E equipment ignited the Camp Fire that killed 85 people in Paradise, California.
+							PG&E later <a
+								href="https://www.npr.org/2020/06/16/879008760/pg-e-pleads-guilty-on-2018-california-camp-fire-our-equipment-started-that-fire#:~:text=Hourly%20News-,PG%26E%20Pleads%20Guilty%20On%202018%20California%20Camp%20Fire%3A%20'Our%20Equipment,has%20been%20charged%20with%20homicide."
+								>pleaded guilty</a
+							> to 84 counts of involuntary manslaughter for the fire.
+						</li>
+						<li>
+							Alongside the requirement for utilities to submit WMPs in 2019, the CPUC<a
+								href="https://energysafety.ca.gov/wp-content/uploads/docs/strategic-roadmap/final_report_wildfiremitigationstrategy_wsd.pdf"
+							>
+								initiated a project</a
+							> to “create a vision, strategy, and roadmap to outline its efforts to systematically reduce
+							the risk of ignition of wildfires from utility infrastructure.” This included establishing
+							a Wildfire Safety Division, which transitioned into the office of Energy Safety in 2021.
+						</li>
+					</ul>
+				</li>
+				<li>
+					<strong
+						>Liabilities from 2017 and 2018 fires caused PG&E and to declare bankruptcy:
+					</strong>PG&E
+					<a
+						href="https://www.nytimes.com/2020/07/01/business/energy-environment/pge-bankruptcy-ends.html"
+						>declared bankruptcy in 2019</a
+					>
+					when facing up to $30 billion in liabilities. (<em
+						>See more about legal liability for utilities here</em
+					>)<strong />
+				</li>
+				<li>
+					<strong
+						>Following stricter regulation and bankruptcy for PG&E, utilities have taken several
+						years to increase their compliance capacity.</strong
+					>
+					<ul>
+						<li>
+							Initial WMPs had significant room for improvement. Energy Safety issued safety
+							certifications in 2020 even though they identified “<a
+								href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">serious deficiencies</a
+							>” in each of their WMPs. Energy Safety
+							<a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">argued</a> that holding
+							the utility to a higher standard would be unrealistic and result in denied WMPs for years.
+							“Without approved plans, the utilities cannot be held accountable for the progress promised
+							in those plans and denial would prevent them from implementing incremental progress over
+							their prior approved plan. Instead, Energy Safety evaluates utility improvement over the
+							previous year and, if sufficient, approves the WMP while providing clear direction on how
+							to mature the capability going forward.”
+						</li>
+					</ul>
+				</li>
+				<li>
+					<strong
+						>Current oversight and standards are Imperfect but hugely improved and improving:</strong
+					> All experts I spoke with agree the process is hugely improved now, though still a work in
+					progress. Several suggested that Energy Safety is highly competent, and has built internal
+					capacity as quickly as could be expected. (It should be noted that these experts may have bias
+					from working with Energy Safety). Although wildfire risk from utility equipment is still meaningfully
+					high, it is significantly reduced and all parties involved are committed to continual safety
+					improvements..
+				</li>
+			</div>
+		</Bullet>
+	</div>
+
+	<!-- TEMPLATE -->
+	<Bullet>
+		<span slot="outer">This is the outer content.</span>
+		<div slot="inner">
+			<li>First item of the list</li>
+			<li>Second item of the list</li>
+		</div>
+	</Bullet>
+
+	<Bullet>
+		<span slot="outer">This is the outer content.</span>
+		<div slot="inner">
+			<li>First item of the list</li>
+			<li>Second item of the list</li>
+			<InnerBullet>
+				<span slot="outer">testing this</span>
+				<span slot="inner">
+					<li>First item of the list</li>
+				</span>
+			</InnerBullet>
+			<!-- Add as many list items as needed -->
+		</div>
+	</Bullet>
+
 	<!-- You can continue adding more sections as needed -->
 	<div class="h-[1px] w-[50%] bg-white mt-10" />
 
@@ -540,12 +829,13 @@
 	.content h1 {
 		font-size: 1.8em;
 		margin-bottom: 14px;
-            margin-top: 20px;
+		margin-top: 30px;
 	}
 
 	.content h2 {
-		font-size: 1.5em;
-		margin-top: 20px;
+		font-size: 1.3em;
+		margin-top: 10px;
+		font-weight: 600;
 		margin-bottom: 10px;
 	}
 
