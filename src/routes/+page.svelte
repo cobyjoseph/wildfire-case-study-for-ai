@@ -1025,16 +1025,17 @@
 	}
 
 	.content h1 {
-		font-size: 1.8em;
+		font-size: 2.4em;
 		margin-bottom: 14px;
 		margin-top: 30px;
+		font-weight: 600;
 	}
 
 	.content h2 {
-		font-size: 1.3em;
+		font-size: 1.5em;
 		margin-top: 30px;
 		font-weight: 600;
-		margin-bottom: 10px;
+		margin-bottom: 20px;
 	}
 
 	.content p {
