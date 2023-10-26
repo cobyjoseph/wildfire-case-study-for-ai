@@ -16,13 +16,7 @@
 	</div>
 
 	<p class=" italic">
-		This case study investigates safety standards applied to investor-owned electrical companies in
-		California (‘utilities’) to reduce the risk of utility equipment igniting catastrophic
-		wildfires. California investor-owned utilities are regulated monopolies responsible for
-		purchasing and distributing electricity across the state. Three utilities cover most of the
-		state, with Pacific Gas and Electric (PG&E) being the largest.<sup id="fnref1"
-			><a href="#fn1" rel="footnote">1</a></sup
-		>
+		<em>This case study was written in response to <a href="https://forum.effectivealtruism.org/posts/idrBxfsHkYeTtpm2q/seeking-paid-case-studies-on-standards">this</a> call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading AI labs. It represents ~65 hours of research, interviews, and writing. I am grateful to <a href="https://law.stanford.edu/directory/michael-wara/">Michael Wara</a> (Stanford Law School Senior Research Scholar and consultant for wildfire risk to the California Office of Energy Infrastructure Safety), <a href="https://www.turn.org/tlong">Tom Long</a> (Director of Legal Strategy at TURN), <a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder and President at </em>Adams, Broadwell, Joseph, & Cardozo<em> and my father), and one other expert with knowledge of the Office of Energy Infrastructure Safety who chose to remain anonymous to  allow me to interview them for this case study. </em>
 	</p>
 
 	<h1>Background and overview</h1>
@@ -492,10 +486,10 @@
 
 	<Bullet>
 		<span slot="outer"
-			>Amid a changing risk landscape, it appears unlikely that any particular company will take
-			tail risk sufficiently seriously until it experiences it first hand, even when such risk would
-			threaten company profits. More concerningly in this case, regulators have not mandated
-			stricter safety standards for utilities until that utility has caused a disaster. <strong>
+			>Amid a changing risk landscape, utilities have appeared not to take tail risk sufficiently
+			seriously until it experiences it first hand, even when such risk would threaten company
+			profits. More concerningly in this case, regulators have not mandated stricter safety
+			standards for utilities until that utility has caused a disaster. <strong>
 				Some events that look like ‘warning shots’ in hindsight did not sufficiently spur urgent
 				safety improvements.
 			</strong>
@@ -922,7 +916,8 @@
 	<Bullet>
 		<span slot="outer"
 			>Tying executive pay to safety outcomes may meaningfully influence utility behavior, but the
-			mechanisms matter. <i>(Click to see more)</i></span
+			mechanism by which this is done may make an important difference. <i>(Click to see more)</i
+			></span
 		>
 		<div slot="inner">
 			<li>
