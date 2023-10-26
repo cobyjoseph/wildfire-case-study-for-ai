@@ -24,13 +24,14 @@
 			call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading
 			AI labs. It represents ~65 hours of research, interviews, and writing. I am grateful to
 			<a href="https://law.stanford.edu/directory/michael-wara/">Michael Wara</a>
-			(Stanford Law School Senior Research Scholar and consultant for wildfire risk to the
-			California Office of Energy Infrastructure Safety),
+			(Stanford Law School Senior Research Scholar and consultant for wildfire risk to the California
+			Office of Energy Infrastructure Safety),
 			<a href="https://www.turn.org/tlong">Tom Long</a>
 			(Director of Legal Strategy at TURN),
 			<a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder
 			and President at
-		</em>Adams, Broadwell, Joseph, & Cardozo<em> and my father), and one other expert with knowledge of the Office of Energy Infrastructure
+		</em>Adams, Broadwell, Joseph, & Cardozo<em>
+			and my father), and one other expert with knowledge of the Office of Energy Infrastructure
 			Safety who chose to remain anonymous to allow me to interview them for this case study.
 		</em>
 	</p>
@@ -293,7 +294,7 @@
 				href="https://energysafety.ca.gov/what-we-do/electrical-infrastructure-safety/wildfire-mitigation-and-safety/safety-certifications/safety-certification-faqs/"
 				>safety certifications</a
 			>'' to qualifying utilities. Failure to receive a safety certification would significantly
-			harm a utility’s financial standing. <em>Click to show more</em></span
+			harm a utility’s financial standing.</span
 		>
 		<div slot="inner">
 			<li>
@@ -606,9 +607,7 @@
 						href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
 						>resulted in limited regulation</a
 					>
-					(especially on PG&E) during the late 2000s and most of the 2010s. (<em
-						>Click to see more)</em
-					>
+					(especially on PG&E) during the late 2000s and most of the 2010s.
 					<ul>
 						<li>
 							<a
@@ -670,7 +669,6 @@
 					<strong
 						>Catastrophic fires caused by PG&E in 2017 sparked legislation to mandate WMPs.</strong
 					>
-					(<em>Click to see more)</em>
 					<ul>
 						<li>
 							Existing regulations were insufficient to mitigate catastrophic risk, at least in the
@@ -783,8 +781,7 @@
 			>Still, while experts believe public welfare and reputational concerns have played a role in
 			utility decisions, most decisions (especially by PG&E) would be best predicted by utilities’
 			profit maximizing incentive structure, including consistent underspending on maintenance.
-			<i>(Click to see more)</i></span
-		>
+		</span>
 		<div slot="inner">
 			<li>
 				California investor-owned utilities are regulated monopolies. Through a <a
@@ -932,8 +929,7 @@
 	<Bullet>
 		<span slot="outer"
 			>Tying executive pay to safety outcomes may meaningfully influence utility behavior, but the
-			mechanism by which this is done may make an important difference. <i>(Click to see more)</i
-			></span
+			mechanism by which this is done may make an important difference.</span
 		>
 		<div slot="inner">
 			<li>
@@ -958,7 +954,325 @@
 
 	<h2>Activists and third parties</h2>
 
+	<Bullet>
+		<span slot="outer"
+			>Even when activists concerned about tail risks had little early success (from what I can
+			tell), their proposals appeared to set the foundation for later standards.</span
+		>
+		<div slot="inner">
+			<li>
+				In 2008, the CPUC hosted public proceedings aimed at preventing wildfires caused by
+				utilities (as described well in <a
+					href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+					>this article</a
+				>). During the proceedings,
+				<strong
+					>activists proposed rules that were initially rejected but later adopted in some form.</strong
+				>
+				Their proposals would were to require that utilities:
+				<ul>
+					<li>
+						Report each fire started by its equipment (as opposed to only reporting fires more than
+						100 acres, the rule at the time). The CPUC initially rejected the proposal amid pushback
+						from PG&E and SCE, but eventually mandated it in 2014.
+					</li>
+					<li>
+						Create detailed maps to identify fire-prone areas. The CPUC finally required such maps
+						in 2018 (again, following pushback from PG&E and SCE), though not in as detailed a form
+						as required in safety advocates' proposals.
+					</li>
+					<li>
+						Create contingency plans for extreme winds that can cause catastrophic fires. This
+						proposal appears to have set the foundation for requirements for fire prevention plans
+						on SDG&E and SCE in 2012, and later WMPs on all utilities starting in 2019 (though I
+						have not definitively confirmed this point).
+					</li>
+				</ul>
+			</li>
+			<li>
+				These activists may have been motivated by a combination of factors including
+				self-preservation (having previously been affected by California wildfires), public safety,
+				and monetary motivations (they reportedly received significant compensation over many years
+				from the CPUC <a
+					href="https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/administrative-law-judge-division/documents/icomp-materials/updated-icomp-program-guide-april-2017.pdf"
+					>intervenor compensation program</a
+				>, discussed below).
+			</li>
+		</div>
+	</Bullet>
+	<Bullet>
+		<span slot="outer"
+			>The <a
+				href="https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/administrative-law-judge-division/documents/icomp-materials/updated-icomp-program-guide-april-2017.pdf"
+				>CPUC intervenor compensation program</a
+			> – which pays individuals and organizations when their input has been useful to a CPUC proceeding
+			– could be a replicable model to build an ecosystem of third party experts.
+		</span>
+		<div slot="inner">
+			<li>
+				The advocates described above <a
+					href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+					>estimated</a
+				> that they received close to $700,000 from the CPUC, as of 2020.
+			</li>
+			<li>
+				To receive payment from the program, one must <a
+					href="https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/administrative-law-judge-division/documents/icomp-materials/updated-icomp-program-guide-april-2017.pdf"
+					>provide</a
+				> “substantial contribution” to a CPUC proceeding.
+			</li>
+			<li>
+				My impression from speaking with Tom Long of <a href="https://www.turn.org/">TURN</a> (a legal
+				advocacy organization that works with the CPUC and receives funding from the program) is that
+				this program has been important to the develop the ecosystem of third party organizations providing
+				expertise for the CPUC and Energy Safety (though he mentioned that Energy Safety does not currently
+				have a program like the intervenor compensation program).
+			</li>
+		</div>
+	</Bullet>
+	<ul />
+
+	<h2>Regulatory structure, processes, and challenges</h2>
+
+	<Bullet>
+		<span slot="outer"
+			>Energy Safety was deliberately created to be a <a
+				href="https://energysafety.ca.gov/who-we-are/about-energy-safety/"
+				>separate regulatory body</a
+			> from the CPUC to focus on regulating wildfire risk by California utilities. My impression from
+			conversations with experts is that having a narrowly safety-focused organization has helped build
+			significant regulatory expertise and make progress establishing a robust oversight process. One
+			expert also suggested the system creates a healthy tension between Energy Safety’s focus on efficient
+			risk reduction and the CPUC’s focus on spending efficiency.</span
+		>
+		<div slot="inner">
+			<li>
+				Following legislation requiring WMPs, the CPUC<a
+					href="https://energysafety.ca.gov/wp-content/uploads/docs/strategic-roadmap/final_report_wildfiremitigationstrategy_wsd.pdf"
+				>
+					initiated a project</a
+				> in 2019 to “create a vision, strategy, and roadmap to outline its efforts to systematically
+				reduce the risk of ignition of wildfires from utility infrastructure.” This included establishing
+				a Wildfire Safety Division, which transitioned into the office of Energy Safety in 2021.
+			</li>
+			<li>
+				Experts indicated to me that the creation of Energy Safety as a body solely focused on
+				wildfire risk from utilities was an explicit attempt to “disentangle” safety and financial
+				concerns. One expert also indicated that it reflected the legislature’s lack of trust in the
+				CPUC to oversee utilities regarding safety.
+			</li>
+			<li>
+				Through <a
+					href="https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-rates/general-rate-case"
+					>General Rate Case</a
+				> proceedings every four years, the CPUC authorizes utilities to collect a certain amount of
+				revenue from ratepayers based on planned expenditures. As such, the CPUC has direct influence
+				over whether or not utilities can recoup funds to execute their proposed WMPs.
+			</li>
+			<li>
+				Energy Safety does not have the ability to impose penalties, rather they <a
+					href="https://energysafety.ca.gov/what-we-do/electrical-infrastructure-safety/compliance/wildfire-mitigation-plan-compliance/"
+					>may determine</a
+				> that a utility “is not in compliance with its approved wildfire mitigation plan,” and “may
+				recommend that the CPUC pursue an enforcement action against the electrical corporation for noncompliance
+				with its approved plan.”
+			</li>
+		</div>
+	</Bullet>
+
+	<Bullet>
+		<span slot="outer"
+			>Still, separating regulatory powers has appeared to lead to several challenges, too. Experts
+			indicated that utilities may have insufficient clarity for how to balance tradeoffs between
+			safety and cost.</span
+		>
+		<div slot="inner">
+			<li>
+				Investments to reduce wildfire risk can lead to higher electricity prices for the public
+				(since California utilities, as regulated monopolies, are typically allowed to pass costs on
+				to customers).
+			</li>
+			<li>
+				Since the CPUC determines (through <a
+					href="https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-rates/general-rate-case"
+					>General Rate Case</a
+				> proceedings every four years) the amount that utilities can recoup from ratepayers, its decisions
+				are integral to the feasibility of utility WMPs.
+			</li>
+			<li>
+				The tension has been particularly clear during current proceedings. PG&E has put <a
+					href="https://www.pgecurrents.com/articles/3858-10-000-miles-undergrounding-bold-idea-2021-significant-progress-2023"
+					>significant focus</a
+				>
+				on undergrounding power lines to improve wildfire safety in recent years. Their 2023-2025 WMP
+				proposal included
+				<a href="https://www.jdsupra.com/legalnews/pg-e-and-sce-s-wildfire-mitigation-2999883/"
+					>significant spending increases</a
+				>
+				(as did SCE’s, though my impression is that SCE is focused less on undergrounding). Experts indicated
+				that the costly focus on undergrounding likely reflects PG&E’s profit incentives, whereby they
+				make a regulated profit on capital expenses, but not on operating expenses (like cutting vegetation
+				near power lines). They indicated to me that cheaper ‘<a
+					href="https://undergroundinfrastructure.com/magazine/2010/july-2010-vol-65-no-7/features/hardening-power-lines"
+					>hardening</a
+				>’ techniques are likely more appropriate (despite them doing slightly less to reduce risk),
+				as utility savings would result in cheaper electricity rates.
+				<ul>
+					<li>
+						This point is also supported by an SCE study (referenced on page 25 <a
+							href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">here</a
+						>) indicating that “each dollar spent replacing existing bare power lines with covered
+						lines provided four times as much value in wildfire risk mitigation as a dollar spent on
+						converting the bare lines to underground power lines.”
+					</li>
+				</ul>
+			</li>
+		</div>
+	</Bullet>
+
+	<Bullet>
+		<span slot="outer"
+			>One expert indicated to me that <strong
+				>the cost and effectiveness of safety-enhancing strategies has been highly uncertain (though
+				perhaps less so today than it used to be).
+			</strong>The separate processes and different timelines between Energy Safety and the CPUC
+			appear to risk slowing safety investments and reducing flexibility to quickly adapt safety
+			strategies as their cost and effectiveness becomes clearer.</span
+		>
+		<div slot="inner">
+			<li>
+				Utility safety investments are largely beholden to CPUC decisions every four years approving
+				the level of investment utilities can recoup from rates. Though there does appear to be a
+				mechanism for updating rates between every four-year decision, my impression is this
+				four-year timeline largely defines spending, which may limit Energy Safety’s ability to
+				mandate continuous safety improvements on a year-to-year basis as evidence on best practices
+				changes (though I am not certain of this point).
+			</li>
+			<li>
+				The CPUC is currently reviewing PG&E’s General Rate Case proposal, and <a
+					href="https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-releases-two-pds-in-response-to-pge-request-for-new-investments-2023"
+					>has indicated</a
+				>
+				that it is considering two options for how PG&E should balance undergrounding and ‘hardening’
+				strategies. Neither option would approve the full spending proposed by PG&E. One expert indicated
+				to me that while PG&E awaits the CPUC’s decision,
+				<strong
+					>PG&E does not know how much it can recoup for 2023 spending, which has slowed its safety
+					investments this year.</strong
+				>
+			</li>
+		</div>
+	</Bullet>
+
+	<Bullet>
+		<span slot="outer"
+			>Lengthy auditing and investigation periods that reduce regulators’ ability to update
+			oversight strategies appear to be particularly costly amid these uncertainties. For example,
+			Energy Safety appears to have incomplete information about utilities’ compliance with the
+			prior year’s WMP when evaluating its subsequent WMP.</span
+		>
+		<div slot="inner">
+			<li>
+				Especially during the 2010s, the slow regulatory process hindered safety progress. It took a
+				decade for the <a
+					href="https://www.sandiegouniontribune.com/business/energy-green/sd-fi-sdge-wildfirecaseruling-20171130-story.html"
+					>CPUC to rule</a
+				>
+				that SDG&E was at fault for devastating 2007 fires. One expert indicated that this
+				“precedent had huge consequences for all three of the state’s largest utilities—especially
+				PG&E,”<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> and it seems possible that such
+				precedent could have spurred more attention to safety earlier, had SDG&E been found to be at
+				fault more promptly.
+			</li>
+			<li>
+				Even in recent years, Energy Safety appears to have incomplete information about utility
+				compliance with prior WMPs when evaluating subsequent WMPs. For example, Energy Safety only
+				released a review of PG&E’s compliance with its 2020 WMP by February 2023.<sup id="fnref10"
+					><a href="#fn10" rel="footnote">10</a></sup
+				>
+				(It found “that PG&E failed to substantially comply with its 2020 WMP, which “hindered its
+				ability to reduce the risk of catastrophic wildfire on its system.”)
+				<ul>
+					<li>
+						A <a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">2022 report</a> from the
+						California State Auditor highlighted the challenges caused by this delayed evaluation. It
+						stated (on page 35) “whether a utility substantially implements the projects in its mitigation
+						plan has no bearing on the issuance of its safety certification as a result of these two
+						factors: first, because the implementation of the plan is in progress, the Energy Safety
+						Office performs only a limited review of whether a utility is implementing its current mitigation
+						plan, and second, determinations of whether a utility substantially implemented its prior
+						mitigation plans are not one of the criteria established in law for it to assess when issuing
+						a safety certification.”
+					</li>
+					<li>
+						In response, Energy Safety suggested that it did not believe it to be necessarily useful
+						to include compliance with the most recent WMP in its subsequent WMP evaluation, stating
+						the following: “Given the constantly evolving understanding of how best to address
+						utility wildfire risk, any findings in the “most recently completed compliance
+						assessment” may not be directly relevant or applicable to utilities’ maturing wildfire
+						strategies. Using the safety certification as a backward-looking, punitive enforcement
+						action could undermine its value as a stabilizing incentive to invest in safety and, as
+						the Report states, “support credit worthiness,” which enables utilities to raise capital
+						at a lower cost to make those investments.” (available on page 75, <a
+							href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">here</a
+						>).
+					</li>
+				</ul>
+			</li>
+		</div>
+	</Bullet>
+
+	<Bullet>
+		<span slot="outer"
+			>Regulation is also challenged by the state’s dependence on utilities. <strong
+				>This case study highlights the risk of using a licensing scheme to regulate companies that
+				become ‘too-important-to-fail.’
+			</strong>Failing to issue safety certifications to utilities that insufficiently mitigate
+			catastrophic risk would pose risks to utilities and could lead to higher electricity prices.<sup
+				id="fnref11"><a href="#fn11" rel="footnote">11</a></sup
+			> This may make regulators reluctant to ‘pull this lever’ and reduce pressure on utilities to fully
+			comply with safety standards. (A similar challenge could emerge if governments and businesses become
+			dependent on (updates to) AI systems).</span
+		>
+		<div slot="inner">
+			<li>
+				While experts indicated to me that Energy Safety would be highly averse to denying safety
+				certification to a utility (and they have not yet done so), they do still put significant
+				pressure on utilities to raise their safety capabilities. One expert indicated to me that
+				the WMP evaluation process is a “negotiation, not a binary decision.” Several experts
+				suggested the cost of compliance for utilities is quite high, and utilities are very
+				concerned about the threat of failing to receive certification.
+			</li>
+			<li>
+				At least in prior years, though, Energy Safety has held utilities to a lower standard. This
+				appears to me to correspond with Energy Safety building its internal capacity and forcing
+				utilities to continually improve safety capabilities at a rate Energy Safety feels is
+				feasible.
+				<ul>
+					<li>
+						In 2020, Energy Safety (conditionally) approved utilities’ WMPs despite identifying
+						“serious deficiencies in each of their mitigation plans” (from page 35, <a
+							href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">here</a
+						>).
+					</li>
+					<li>
+						Energy Safety argued that holding the utility to a higher standard would be unrealistic
+						and result in denied WMPs for years - ultimately delaying its progress. “Without
+						approved plans, the utilities cannot be held accountable for the progress promised in
+						those plans and denial would prevent them from implementing incremental progress over
+						their prior approved plan. Instead, Energy Safety evaluates utility improvement over the
+						previous year and, if sufficient, approves the WMP while providing clear direction on
+						how to mature the capability going forward” (from page 75, <a
+							href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">here</a
+						>).
+					</li>
+				</ul>
+			</li>
+		</div>
+	</Bullet>
+
 	<!-- TEMPLATE -->
+
 	<Bullet>
 		<span slot="outer">This is the outer content.</span>
 		<div slot="inner">
