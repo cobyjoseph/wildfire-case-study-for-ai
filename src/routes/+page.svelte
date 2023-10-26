@@ -16,7 +16,24 @@
 	</div>
 
 	<p class=" italic">
-		<em>This case study was written in response to <a href="https://forum.effectivealtruism.org/posts/idrBxfsHkYeTtpm2q/seeking-paid-case-studies-on-standards">this</a> call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading AI labs. It represents ~65 hours of research, interviews, and writing. I am grateful to <a href="https://law.stanford.edu/directory/michael-wara/">Michael Wara</a> (Stanford Law School Senior Research Scholar and consultant for wildfire risk to the California Office of Energy Infrastructure Safety), <a href="https://www.turn.org/tlong">Tom Long</a> (Director of Legal Strategy at TURN), <a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder and President at </em>Adams, Broadwell, Joseph, & Cardozo<em> and my father), and one other expert with knowledge of the Office of Energy Infrastructure Safety who chose to remain anonymous to  allow me to interview them for this case study. </em>
+		<em
+			>This case study was written in response to <a
+				href="https://forum.effectivealtruism.org/posts/idrBxfsHkYeTtpm2q/seeking-paid-case-studies-on-standards"
+				>this</a
+			>
+			call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading
+			AI labs. It represents ~65 hours of research, interviews, and writing. I am grateful to
+			<a href="https://law.stanford.edu/directory/michael-wara/">Michael Wara</a>
+			(Stanford Law School Senior Research Scholar and consultant for wildfire risk to the
+			California Office of Energy Infrastructure Safety),
+			<a href="https://www.turn.org/tlong">Tom Long</a>
+			(Director of Legal Strategy at TURN),
+			<a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder
+			and President at
+		</em>Adams, Broadwell, Joseph, & Cardozo<em>
+			and my father), and one other expert with knowledge of the Office of Energy Infrastructure
+			Safety who chose to remain anonymous to allow me to interview them for this case study.
+		</em>
 	</p>
 
 	<h1>Background and overview</h1>
@@ -379,7 +396,7 @@
 		</div>
 	</Bullet>
 
-	<div class=" py-1 pr-5 bg-slate-800 rounded-md mt-5">
+	<div class=" py-1 pr-5 pl-2 bg-slate-800 rounded-md mt-5">
 		<Bullet>
 			<span slot="outer"
 				><div class="text-lg font-semibold pb-4">Wildfire Mitigation Plan components</div></span
@@ -566,7 +583,7 @@
 		</div>
 	</Bullet>
 
-	<div class=" py-1 pr-5 bg-slate-800 rounded-md mt-5">
+	<div class=" py-1 pr-5 pl-2 bg-slate-800 rounded-md mt-5">
 		<Bullet>
 			<span slot="outer"
 				><div class="text-lg font-semibold pb-4">The evolution of safety standards</div></span
@@ -842,7 +859,7 @@
 		</li>
 	</ul>
 
-	<div class=" py-1 pr-5 bg-slate-800 rounded-md mt-5">
+	<div class=" py-1 pr-5 pl-2 bg-slate-800 rounded-md mt-5">
 		<Bullet>
 			<span slot="outer"
 				><div class="text-lg font-semibold pb-4">
@@ -889,7 +906,7 @@
 					process if they have a safety certification from Energy Safety, as
 					<a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">described in more detail</a
 					>
-					by the California State Auditor below. <em>(expand to view)</em>
+					by the California State Auditor below.
 					<ul>
 						<li>
 							“Participating utilities may seek payment from the Wildfire Fund to satisfy
