@@ -8,7 +8,7 @@
 	}
 </script>
 
-<div class="bullet ml-3 mt-2">
+<div class="bullet ml-3 mt-4">
 	<div class="bullet-header" on:click={toggle}>
 		<span class="arrow {isOpen ? 'open' : ''}">▷</span>
 		<span>
@@ -17,7 +17,7 @@
 		</span>
 	</div>
 	{#if isOpen}
-		<div in:slide={{ y: 10 }} out:slide={{ y: 10 }} class="bullet-content ml-16 mt-2">
+		<div in:slide={{ y: 10 }} out:slide={{ y: 10 }} class="bullet-content ml-16 mt-3">
 			<ul>
 				<slot name="inner" />
 				<!-- Slot for projected list items -->
@@ -30,12 +30,12 @@
 	.bullet-header {
 		cursor: pointer;
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
 	}
 
 	.bullet-content ul {
-		list-style-type: circle;
-		padding-left: 20px; /* Adjust this value as needed to control the indent */
+		list-style-type: disc;
+		padding-left: 10px; /* Adjust this value as needed to control the indent */
 	}
 
 	.arrow {
