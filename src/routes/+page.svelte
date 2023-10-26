@@ -30,8 +30,7 @@
 			(Director of Legal Strategy at TURN),
 			<a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder
 			and President at
-		</em>Adams, Broadwell, Joseph, & Cardozo<em>
-			and my father), and one other expert with knowledge of the Office of Energy Infrastructure
+		</em>Adams, Broadwell, Joseph, & Cardozo<em> and my father), and one other expert with knowledge of the Office of Energy Infrastructure
 			Safety who chose to remain anonymous to allow me to interview them for this case study.
 		</em>
 	</p>
