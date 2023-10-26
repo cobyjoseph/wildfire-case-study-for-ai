@@ -749,6 +749,204 @@
 		</Bullet>
 	</div>
 
+	<h2>Utility motives</h2>
+
+	<ul>
+		<li>
+			On its surface, the California utility market appears more likely than most to be one in which
+			companies are motivated by public welfare, including for the following reasons:
+		</li>
+		<ul>
+			<li>Utilities have a highly regulated business model.</li>
+			<li>Wildfire risk has become clear after utilities have caused deadly catastrophes.</li>
+			<li>
+				Utilities face significant reputational challenges. PG&E in particular has received
+				significant negative publicity for many years related to wildfires. Its employees live among
+				their customers, and according to one expert, employees have received death threats and been
+				shot at while working.
+			</li>
+		</ul>
+	</ul>
+
+	<Bullet>
+		<span slot="outer"
+			>Still, while experts believe public welfare and reputational concerns have played a role in
+			utility decisions, most decisions (especially by PG&E) would be best predicted by utilities’
+			profit maximizing incentive structure, including consistent underspending on maintenance.
+			<i>(Click to see more)</i></span
+		>
+		<div slot="inner">
+			<li>
+				California investor-owned utilities are regulated monopolies. Through a <a
+					href="https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-rates/general-rate-case"
+					>General Rate Case</a
+				>
+				proceeding every four years, utilities propose electric revenue based on their anticipated expenses.
+				<ul>
+					<li>
+						For approved capital investments, utilities are allowed to recover costs plus a fixed
+						profit.
+					</li>
+					<li>
+						For operating expenditures, utilities are only allowed to recover the projected
+						expenditure without profit. However, if operating expenditures come in below the
+						previously approved amount, these savings become utility profits.
+					</li>
+					<li>
+						<strong
+							>Public reporting and experts I interviewed consistently found this business model to
+							be a principal reason for consistent underspending on maintenance, which has (fairly
+							directly) led to catastrophic fires.
+						</strong>
+					</li>
+				</ul>
+			</li>
+			<li>
+				PG&E behavior in particular has been consistently characterized by profit seeking motives.
+				This point has been widely argued, including in this New York Times Article “<a
+					href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
+					>How PG&E Ignored Fire Risks in Favor of Profits</a
+				>.” Some illustrative anecdotes include the following:
+				<ul>
+					<li>
+						In describing the history of PG&E leading up to its 2019 bankruptcy, author Katherine
+						Blunt described <strong>“</strong>A series of executives had sought to please investors
+						and politicians, often at the expense of customers. By the time the company confronted
+						the risks of its aging electric grid, the problems were staggering.”<sup id="fnref5"
+							><a href="#fn5" rel="footnote">5</a></sup
+						>
+					</li>
+					<li>
+						In <a
+							href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
+							>discussing</a
+						> resistance to regulation during the 2010s, a PG&E utilities commissioner described of PG&E:
+						“There was very much a focus on the bottom line over everything: ‘What are the earnings we
+						can report this quarter?’” “And things really got squeezed on the maintenance side.”
+					</li>
+					<li>
+						Even following bankruptcy, PG&E’s choices for executives appear to prioritize profit
+						over safety. In a letter to the company, Governor Newsom indicated he was “troubled to
+						learn that PG&E is primed to reconstitute its board with hedge fund financiers,
+						out-of-state executives and others with little or no experience in California and
+						inadequate expertise in utility operations, regulation and safety. With this move, PG&E
+						would send a clear message that it is prioritizing quick profits for Wall Street over
+						public safety and reliable and affordable energy service.” The company moved forward
+						with the appointments anyway.<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>
+					</li>
+				</ul>
+			</li>
+		</div>
+	</Bullet>
+
+	<ul>
+		<li>
+			Experts indicated that legal liability – established by courts rather than the legislature –
+			has proved substantially more influential on company behavior than public penalties. <i
+				>(See the text box below for more information)
+			</i>
+		</li>
+	</ul>
+
+	<div class=" py-1 pr-5 bg-slate-800 rounded-md mt-5">
+		<Bullet>
+			<span slot="outer"
+				><div class="text-lg font-semibold pb-4">
+					The evolution and status of utilities’ legal liability for fire damage
+				</div></span
+			>
+			<div slot="inner" class="-mt-2 pb-3">
+				<li>
+					Due to a <a
+						href="https://www.counties.org/sites/main/files/file-attachments/csac_issue_brief_inverse_condemnation_7-25-18.pdf"
+						>California court decision</a
+					>, utilities are legally required to reimburse wildfire victims for damages from fires
+					started by utility equipment <em>regardless of whether the utility was at fault</em>. My
+					interpretation from expert discussions is that <strong>the</strong>
+					<strong
+						>threat of legal liability has significantly (though not always sufficiently) motivated
+						utilities to reduce wildfire threat</strong
+					>, once the utility acknowledged the risk.
+				</li>
+				<li>
+					The liability stems from “inverse condemnation,” which is a legal concept that flips the
+					idea of eminent domain and establishes that property owners are entitled to compensation
+					if it is damaged to serve a public purpose. A California court determined that the
+					liability applied to investor-owned utilities in 1999, if their equipment sparks a
+					wildfire that damages private property.<sup id="fnref7"
+						><a href="#fn7" rel="footnote">7</a></sup
+					>
+				</li>
+				<li>
+					This liability (among other possible reasons), appears to have successfully motivated at
+					least one utility (SDG&E) to voluntarily prioritize safety efforts (see more here). In
+					contrast, it has not led to sufficient safety priority for PG&E, and led to the company
+					declaring <a
+						href="https://www.nytimes.com/2020/07/01/business/energy-environment/pge-bankruptcy-ends.html"
+						>bankruptcy in 2019</a
+					> when facing up to $30 billion in liabilities for fires started by poorly maintained equipment.
+				</li>
+				<li>
+					Legislation in 2019 established the <a
+						href="https://www.cawildfirefund.com/#:~:text=The%20California%20Wildfire%20Fund%20exists,caused%20by%20the%20participating%20utility."
+						>California Wildfire Fund</a
+					>, which effectively serves as insurance against very large liabilities. Utilities can
+					draw from the fund for liabilities above $1 billion. Utilities are advantaged in this
+					process if they have a safety certification from Energy Safety, as
+					<a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">described in more detail</a
+					>
+					by the California State Auditor below. <em>(expand to view)</em>
+					<ul>
+						<li>
+							“Participating utilities may seek payment from the Wildfire Fund to satisfy
+							third-party claims for covered wildfires that exceed the greater of $1 billion in any
+							year or the amount of insurance the utility must maintain. State law requires
+							participating utilities to maintain reasonable insurance coverage, the amount of which
+							the fund administrator must periodically review and recommend. In general, utilities
+							must reimburse the fund for costs that the CPUC determines are not just and
+							reasonable. By law, utilities with a valid safety certification for the period in
+							which the wildfire ignited are presumed to have acted reasonably, and if the CPUC
+							determines the costs for which they claim reimbursement are not just and reasonable,
+							the amount the utility must reimburse the Wildfire Fund is capped. However, if the
+							CPUC determines that the utility’s costs were not reasonable and it did not have a
+							safety certification or the fund administrator determines that its actions or
+							inactions constituted a conscious or willful disregard of the rights and safety of
+							others, the utility must reimburse the Wildfire Fund in full.”
+						</li>
+					</ul>
+				</li>
+			</div>
+		</Bullet>
+	</div>
+
+	<Bullet>
+		<span slot="outer"
+			>Tying executive pay to safety outcomes may meaningfully influence utility behavior, but the
+			mechanisms matter. <i>(Click to see more)</i></span
+		>
+		<div slot="inner">
+			<li>
+				Energy Safety requires utilities to submit executive payment plans, which are approved if it
+				is shown to be dependent on safety outcomes (though utilities have some freedom on how to
+				interpret this).<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
+				<ul>
+					<li>
+						Following bankruptcy, PG&E was given the additional requirement to base a “significant
+						component of long-term incentive compensation on safety performance.”
+					</li>
+				</ul>
+			</li>
+			<li>
+				One expert (Michael Wara) suggested such a program would be much more influential if
+				executive pay was also required to follow a long-term (e.g. 10+ year) vesting schedule, such
+				that executives would lose significant pay if the company failed to avert long-term
+				catastrophic risks.
+			</li>
+		</div>
+	</Bullet>
+
+	<h2>Activists and third parties</h2>
+
 	<!-- TEMPLATE -->
 	<Bullet>
 		<span slot="outer">This is the outer content.</span>
@@ -834,7 +1032,7 @@
 
 	.content h2 {
 		font-size: 1.3em;
-		margin-top: 10px;
+		margin-top: 30px;
 		font-weight: 600;
 		margin-bottom: 10px;
 	}
