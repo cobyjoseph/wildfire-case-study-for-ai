@@ -25,8 +25,8 @@
 					href="https://forum.effectivealtruism.org/posts/idrBxfsHkYeTtpm2q/seeking-paid-case-studies-on-standards"
 					>this</a
 				>
-				call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading
-				AI labs. It represents ~65 hours of research, interviews, and writing. I am grateful to
+				call for proposals by Holden Karnofsky to inform possible safety standards on leading AI labs.
+				It represents ~65 hours of research, interviews, and writing. I am grateful to
 				<a href="https://law.stanford.edu/directory/michael-wara/">Michael Wara</a>
 				(Stanford Law School Senior Research Scholar and consultant for wildfire risk to the California
 				Office of Energy Infrastructure Safety),
@@ -59,13 +59,15 @@
 		</p>
 		<ul>
 			<li>
-				Catastrophic risk is posed by a small number of companies (three utilities cover most of the
-				state).<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>
+				Catastrophic wildfire risk is posed by a small number of companies in California (three
+				utilities cover most of the state).<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup
+				>
 			</li>
 			<li>
-				It is infeasible to fully eliminate catastrophic risk (at least in short-medium term).
+				It is infeasible to fully eliminate catastrophic wildfire risk (at least in short-medium
+				term).
 			</li>
-			<li>Risk has quickly increased in the past two decades.</li>
+			<li>The risk of catastrophic wildfires has quickly increased in the past two decades.</li>
 			<li>
 				During this time, risk levels and the individual sources of risk have been highly uncertain
 				(though they are better understood now).
@@ -85,13 +87,13 @@
 				Reputational risks play an important factor for utilities, as the largest utilities are well
 				known by the general public and the risk posed by such companies is widely discussed in
 				California media and politics.
-				<p>
-					This case study aims to highlight examples of company actions and regulator successes and
-					challenges in this (potentially) similar environment, to help calibrate our expectations
-					for AI company behavior and the risks and opportunities for safety standard strategies.
-				</p>
 			</li>
 		</ul>
+		<p>
+			This case study aims to highlight examples of company actions and regulator successes and
+			challenges in this (potentially) similar environment, to help calibrate our expectations for
+			AI company behavior and the risks and opportunities for safety standard strategies.
+		</p>
 		<p>
 			Based on my research, the following features of safety standard development on California
 			utilities to prevent catastrophic wildfires should provide (further) caution for AI safety
@@ -142,8 +144,8 @@
 
 					<li>
 						<a href="#7">
-							allows for the regulator to update guidelines on safety best practices as evidence for
-							the cost and effectiveness of various safety strategies is limited and changing.
+							allows for the regulator to update guidelines on safety best practices (while evidence
+							for the cost and effectiveness of various safety strategies is limited and changing).
 						</a>
 					</li>
 				</ul>
@@ -152,8 +154,7 @@
 
 		<p>
 			This case study also explores possible benefits and challenges of several regulatory
-			strategies that have been used to prevent wildfires that could be relevant for the AI safety
-			field.
+			strategies that could be relevant for the AI safety field.
 		</p>
 		<ul>
 			<li>
@@ -222,8 +223,8 @@
 
 		<p>This case study is structured as follows:</p>
 		<ul>
-			<li><a href="#17"> The problem that safety standards aim to address </a></li>
-			<li><a href="#18"> Current standards </a></li>
+			<li><a href="#17"> The problem that safety standards aim to address.</a></li>
+			<li><a href="#18"> Current standards.</a></li>
 			<li>
 				<a href="#19">
 					More details on each of the key findings listed above, organized by theme (e.g. <a
@@ -232,7 +233,11 @@
 				</a>
 			</li>
 		</ul>
-		<p>Bullet points with arrows next to them can be clicked reveal additional detail.</p>
+		<p>
+			<strong
+				>Bullet points with arrows next to them can be clicked to reveal additional detail.</strong
+			>
+		</p>
 		<h1 id="17">The need for safety standards</h1>
 
 		<Bullet>
@@ -258,8 +263,10 @@
 					> up to 2022, seven occurred in 2020 and 2021 alone.
 				</li>
 				<li>
-					Climate change appears to be significantly exacerbating catastrophic wildfire risk by
-					increasing drought frequency and severity.
+					Climate change appears to be significantly exacerbating catastrophic wildfire risk by <a
+						href="https://caseagrant.ucsd.edu/faq-droughts-californias-coastal-regions"
+						>increasing drought frequency and severity</a
+					>.
 				</li>
 			</div>
 		</Bullet>
@@ -313,7 +320,8 @@
 						href="https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/infrastructure/electric-reliability/undergrounding-program-description#:~:text=According%20to%20PG%26E%2C%20SCE%20and,to%20%246.072%20million%20per%20mile."
 						>estimated</a
 					> to cost more than $750 billion. Just undergrounding lines in the highest fire risk areas
-					would cost substantially less, though still many hundreds of billions of dollars.
+					would cost substantially less, though one expert indicated it would still cost many hundreds
+					of billions of dollars.
 				</li>
 
 				<!-- Add as many list items as needed -->
@@ -322,10 +330,6 @@
 
 		<h1 id="18">Current standards</h1>
 
-		<p>
-			The top points in this section summarize the main current safety standards. Each bullet point
-			can be expanded for additional information.
-		</p>
 		<ul>
 			<li>
 				The California Public Utilities Commission (CPUC) is the primary regulator of utilities. In
@@ -351,8 +355,8 @@
 					to repay victims of a wildfire caused by its equipment, for which the utility would be automatically
 					liable. (<em
 						>More information about legal liability facing utilities <a href="#8">here</a></em
-					>) Experts stressed that failure to receive safety certification would immediately cause a
-					significant stock price drop for the utility, and would likely lead to a drop in its
+					>). Experts stressed that failure to receive safety certification would immediately cause
+					a significant stock price drop for the utility, and would likely lead to a drop in its
 					credit rating.
 				</li>
 			</div>
@@ -384,10 +388,6 @@
 							<li>self-reporting on lessons learned, and</li>
 							<li>interviews and observational visits.</li>
 						</ul>
-						<li>
-							To complete this requirement, the utility must have agreed to implement the findings
-							of its most recent safety culture assessment.
-						</li>
 					</span>
 				</InnerBullet>
 
@@ -397,7 +397,8 @@
 			<div class="ml-[3.35em]">
 				<li>
 					an <strong>approved executive compensation structure</strong> that ties compensation to
-					safety performance. <em>This requirement is explained in more detail here.</em>
+					safety performance.
+					<em>This requirement is explained in more detail <a href="#11">here</a>.</em>
 				</li>
 				<li>
 					an annually approved <strong>Wildfire Mitigation Plan</strong> (WMP).
@@ -434,7 +435,8 @@
 						<li>Field inspections conducted by Energy Safety.</li>
 						<li>Annual compliance reports conducted by the utility.</li>
 						<li>
-							An independent evaluator, hired by the utility from a list approved by Energy Safety.
+							Evaluation by an independent evaluator, hired by the utility from a list approved by
+							Energy Safety.
 						</li>
 						<li>Vegetation management (and possibly other) audits, conducted by Energy Safety.</li>
 					</ul>
@@ -479,7 +481,7 @@
 						<li>
 							forward-looking growth, including a long term strategy and clear action plan to
 							“continue reducing utility-related ignitions and the scale, scope, and frequency of
-							Public Safety Power Shutoff (PSPS) events” (<em>PSPS are described here),</em>
+							<a href="https://www.cpuc.ca.gov/psps/">Public Safety Power Shutoffs</a> events”
 						</li>
 						<li>
 							use of performance metrics to evaluate wildfire risk, Public Safety Power Shutoffs,
@@ -489,10 +491,7 @@
 							and quantitative targets to track completion of initiatives in electrical
 							corporation’s approved WMP.
 						</li>
-						<li>
-							WMP assessment includes input from California Department of Forestry and Fire
-							Protection (CAL FIRE), public and stakeholder comments, data supplied by corporation,
-						</li>
+
 						<li>
 							<em
 								>Submitted WMPs can be accessed <a
@@ -537,9 +536,9 @@
 			</li>
 			<ul>
 				<li>
-					Until legislation required stricter regulation in (particularly starting in 2017),
-					regulators lacked sufficient capacity and will to impose rules in the face of opposition
-					from most utilities.
+					Until legislation required stricter regulation (particularly starting in 2017), regulators
+					lacked sufficient capacity and will to impose rules in the face of opposition from most
+					utilities.
 				</li>
 				<li>
 					It then took several years to determine an appropriate regulatory framework and build
@@ -555,15 +554,13 @@
 		<Bullet>
 			<span id="2" slot="outer"
 				>Amid a changing risk landscape, utilities have appeared not to take tail risk sufficiently
-				seriously until it experiences it first hand, even when such risk would threaten company
-				profits. More concerningly in this case, regulators have not mandated stricter safety
-				standards for utilities until that utility has caused a disaster. <strong>
+				seriously until they experience it first hand, even when such risk would threaten company
+				profits. More concerningly, regulators have generaly not mandated substantially stricter
+				safety standards for utilities until that utility has caused a disaster. <strong>
 					Some events that look like ‘warning shots’ in hindsight did not sufficiently spur urgent
 					safety improvements.
 				</strong>
-				<i>(Click to see some examples of events that could have been viewed as warning shots)</i
-				></span
-			>
+			</span>
 			<div id="3" slot="inner">
 				<li>
 					Events that drew attention to catastrophic threat but failed to spur significant action
@@ -584,10 +581,9 @@
 						In 2015, PG&E equipment sparked the <a
 							href="https://www.fire.ca.gov/incidents/2015/9/9/butte-fire/">Butte fire</a
 						>
-						that killed two people.While the CPUC did require some safety action during this period,
-						it did not require PG&E to create a wildfire safety plan until mandated by legislation in
-						2017. Its first 2019 WMP came after the company caused devastating fires in 2017 and 2018.
-						(<em
+						that killed two people. The CPUC did not not require PG&E to create a wildfire safety plan
+						until mandated by legislation in 2017. By the time its first WMP was completed (2019), the
+						utility had already caused devastating fires in 2017 and 2018. (<em
 							>See more about the history of increasing fire risk and the evolution of safety
 							standards <a href="#evolution">here)</a>
 						</em>.
@@ -603,7 +599,7 @@
 						safety practices. This could have piqued investigations into the company’s electricity safety
 						culture, too. (While I’m not certain as to whether such investigations occurred, no significant
 						regulation forced improvements to PG&E’s (deficient) safety culture and practices related
-						to electrical equipment.
+						to electrical equipment during this time.)
 						<ul>
 							<li>
 								The Attorney prosecuting PG&E following the 2018 Camp Fire (which killed 85 people)
@@ -615,23 +611,23 @@
 							</li>
 						</ul>
 					</li>
-					<li>
-						<strong>The pattern extends beyond California:</strong> One expert I spoke with (Michael
-						Wara) believes this pattern – whereby utilities fail to sufficiently take precaution (or
-						be forced by regulators to act) until they’ve caused a catastrophic fire – has been
-						playing out for utilities across the country, too. He stated that this reactivity will
-						likely lead to more disasters.<strong />In Hawaii, for example,
-						<a
-							href="https://twitter.com/michaelwwara/status/1709717342115057841?s=48&t=jvABLpmiJy24m6BINifJrQ"
-							>Hawaiian Electric</a
-						>
-						decided against using Public Safety Power Shutoffs (as is used by California utilities) and
-						deemed its coverage area to be less prone to catastrophic fires than California. Its equipment
-						then caused the 2023
-						<a href="https://www.nytimes.com/article/maui-wildfires-hawaii.html">Lahaina fire</a> that
-						killed about 100 people.
-					</li>
 				</ul>
+				<li>
+					<strong>The pattern likely extends beyond California:</strong> One expert I spoke with
+					(Michael Wara) believes this pattern – whereby utilities fail to sufficiently take
+					precaution (or be forced by regulators to act) until they’ve caused a catastrophic fire –
+					has been playing out for utilities across the country, too. <strong />In Hawaii, for
+					example,
+					<a
+						href="https://twitter.com/michaelwwara/status/1709717342115057841?s=48&t=jvABLpmiJy24m6BINifJrQ"
+						>Hawaiian Electric</a
+					>
+					decided against using Public Safety Power Shutoffs to prevent catastrophic wildfire (as is
+					used by California utilities) and deemed its coverage area to be less prone to catastrophic
+					fires than California. Its equipment then caused the 2023
+					<a href="https://www.nytimes.com/article/maui-wildfires-hawaii.html">Lahaina fire</a> that
+					killed about 100 people.
+				</li>
 			</div>
 		</Bullet>
 
@@ -670,11 +666,11 @@
 								<a
 									href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
 									>In 2012</a
-								>, the CPUC required Southern California Edison and SDG&E to create fire prevention
-								plans. It did not require PG&E to create such a plan, but required that PG&E make a
-								“good faith” effort to determine if such a plan was needed. PG&E determined a plan
-								was not necessary, but submitted a six-page summary of prevention and mitigation
-								plan.
+								>, the CPUC required Southern California Edison (SCE) and SDG&E to create fire
+								prevention plans. It did not require PG&E to create such a plan, but required that
+								PG&E make a “good faith” effort to determine if such a plan was needed. PG&E
+								determined a plan was not necessary, but submitted a six-page summary of a
+								prevention and mitigation plan.
 							</li>
 							<li>
 								<a
@@ -687,7 +683,7 @@
 							<li>
 								<a
 									href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
-									>In 2015</a
+									>In 2018</a
 								>, after years of pushback from PG&E and SCE, the CPUC required mapping fire risks,
 								though safety advocates believed the requirements to be diluted.
 							</li>
@@ -695,15 +691,15 @@
 					</li>
 					<li>
 						<strong>Profit motive drove opposition from utilities: </strong>Two of the three largest
-						utilities (PG&E and Southern California Edison (SCE)) fought most efforts to increase
-						safety standards. PG&E in particular was highly
+						utilities (PG&E and SCE) fought most efforts to increase safety standards. PG&E in
+						particular was highly
 						<a
 							href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
 							>adversarial and effective</a
 						>
-						at slowing down regulation. “On a scale from one to 10, where 10 is really obstructive and
-						zero is completely cooperative, I would have put PG&E at a nine,” said Mark Ferron, a CPUC
-						commissioner from 2011 to 2014.”
+						at slowing down regulation. According to a CPUC commissioner from 2011 to 2014 “On a scale
+						from one to 10, where 10 is really obstructive and zero is completely cooperative, I would
+						have put PG&E at a nine.”
 						<a
 							href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
 							>Significant</a
@@ -758,27 +754,25 @@
 								> to 84 counts of involuntary manslaughter for the fire.
 							</li>
 							<li>
-								Alongside the requirement for utilities to submit WMPs in 2019, the CPUC<a
+								Alongside the requirement for utilities to submit WMPs in 2019, the CPUC <a
 									href="https://energysafety.ca.gov/wp-content/uploads/docs/strategic-roadmap/final_report_wildfiremitigationstrategy_wsd.pdf"
 								>
 									initiated a project</a
 								> to “create a vision, strategy, and roadmap to outline its efforts to systematically
 								reduce the risk of ignition of wildfires from utility infrastructure.” This included
-								establishing a Wildfire Safety Division, which transitioned into the office of Energy
+								establishing a Wildfire Safety Division, which transitioned into the Office of Energy
 								Safety in 2021.
 							</li>
 						</ul>
 					</li>
 					<li>
-						<strong
-							>Liabilities from 2017 and 2018 fires caused PG&E and to declare bankruptcy:
-						</strong>PG&E
+						Liabilities from 2017 and 2018 fires caused PG&E to declare bankruptcy
 						<a
 							href="https://www.nytimes.com/2020/07/01/business/energy-environment/pge-bankruptcy-ends.html"
-							>declared bankruptcy in 2019</a
+							>in 2019</a
 						>
 						when facing up to $30 billion in liabilities. (<em
-							>See more about legal liability for utilities here</em
+							>See more about legal liability for utilities <a href="#8">here</a></em
 						>)<strong />
 					</li>
 					<li>
@@ -805,13 +799,14 @@
 					</li>
 					<li>
 						<strong
-							>Current oversight and standards are Imperfect but hugely improved and improving:</strong
-						> All experts I spoke with agree the process is hugely improved now, though still a work
-						in progress. Several suggested that Energy Safety is highly competent, and has built internal
-						capacity as quickly as could be expected. (It should be noted that these experts may have
-						bias from working with Energy Safety). Although wildfire risk from utility equipment is still
-						meaningfully high, it is significantly reduced and all parties involved are committed to
-						continual safety improvements..
+							>Current oversight and standards are imperfect but hugely improved and improving:</strong
+						> All experts I spoke with agree the process is significantly more effective at reducing
+						wildfire risk compared to several years prior, though still a work in progress. Several suggested
+						that Energy Safety is highly competent, and has built internal capacity as quickly as could
+						be expected. Although wildfire risk from utility equipment is still meaningfully high, they
+						indicated that it is significantly reduced and all parties involved are committed to continual
+						safety improvements. (It should be noted that these experts may have bias from working with
+						Energy Safety).
 					</li>
 				</div>
 			</Bullet>
@@ -821,8 +816,9 @@
 
 		<ul>
 			<li id="4">
-				On its surface, the California utility market appears more likely than most to be one in
-				which companies are motivated by public welfare, including for the following reasons:
+				On its surface, the California utility market appears more likely than most capitalist
+				markets to be one in which companies prioritize public welfare, including for the following
+				reasons:
 			</li>
 			<ul>
 				<li>Utilities have a highly regulated business model.</li>
@@ -871,19 +867,11 @@
 				</li>
 				<li>
 					PG&E behavior in particular has been consistently characterized by profit seeking motives.
-					This point has been widely argued, including in this New York Times Article “<a
+					This point has been widely stated, including in this New York Times Article “<a
 						href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
 						>How PG&E Ignored Fire Risks in Favor of Profits</a
 					>.” Some illustrative anecdotes include the following:
 					<ul>
-						<li>
-							In describing the history of PG&E leading up to its 2019 bankruptcy, author Katherine
-							Blunt described <strong>“</strong>A series of executives had sought to please
-							investors and politicians, often at the expense of customers. By the time the company
-							confronted the risks of its aging electric grid, the problems were staggering.”<sup
-								id="fnref5"><a href="#fn5" rel="footnote">5</a></sup
-							>
-						</li>
 						<li>
 							In <a
 								href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
@@ -891,6 +879,14 @@
 							> resistance to regulation during the 2010s, a PG&E utilities commissioner described of
 							PG&E: “There was very much a focus on the bottom line over everything: ‘What are the earnings
 							we can report this quarter?’” “And things really got squeezed on the maintenance side.”
+						</li>
+						<li>
+							In describing the history of PG&E leading up to its 2019 bankruptcy, author Katherine
+							Blunt described <strong>“</strong>A series of executives had sought to please
+							investors and politicians, often at the expense of customers. By the time the company
+							confronted the risks of its aging electric grid, the problems were staggering.”<sup
+								id="fnref5"><a href="#fn5" rel="footnote">5</a></sup
+							>
 						</li>
 						<li>
 							Even following bankruptcy, PG&E’s choices for executives appear to prioritize profit
@@ -930,17 +926,20 @@
 				<li>
 					The liability stems from “inverse condemnation,” which is a legal concept that flips the
 					idea of eminent domain and establishes that property owners are entitled to compensation
-					if it is damaged to serve a public purpose. A California court determined that the
-					liability applied to investor-owned utilities in 1999, if their equipment sparks a
+					if their property is damaged to serve a public purpose. A California court determined that
+					the liability applied to investor-owned utilities in 1999, if their equipment sparks a
 					wildfire that damages private property.<sup id="fnref7"
 						><a href="#fn7" rel="footnote">7</a></sup
 					>
 				</li>
 				<li>
 					This liability (among other possible reasons), appears to have successfully motivated at
-					least one utility (SDG&E) to voluntarily prioritize safety efforts (see more here). In
-					contrast, it has not led to sufficient safety priority for PG&E, and led to the company
-					declaring <a
+					least one utility (SDG&E) to voluntarily prioritize safety efforts (described further <a
+						href="#16">here).</a
+					>
+					In contrast, it has not led to sufficient safety priority for PG&E, and led to the company
+					declaring
+					<a
 						href="https://www.nytimes.com/2020/07/01/business/energy-environment/pge-bankruptcy-ends.html"
 						>bankruptcy in 2019</a
 					> when facing up to $30 billion in liabilities for fires started by poorly maintained equipment.
@@ -985,8 +984,8 @@
 			<div slot="inner">
 				<li>
 					Energy Safety requires utilities to submit executive payment plans, which are approved if
-					it is shown to be dependent on safety outcomes (though utilities have some freedom on how
-					to interpret this).<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
+					they are shown to be dependent on safety outcomes (though utilities have some freedom on
+					how to interpret this).<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>
 					<ul>
 						<li>
 							Following bankruptcy, PG&E was given the additional requirement to base a “significant
@@ -1020,7 +1019,7 @@
 					<strong
 						>activists proposed rules that were initially rejected but later adopted in some form.</strong
 					>
-					Their proposals would were to require that utilities:
+					Their proposals were to require that utilities:
 					<ul>
 						<li>
 							Report each fire started by its equipment (as opposed to only reporting fires more
@@ -1098,7 +1097,7 @@
 			>
 			<div slot="inner">
 				<li>
-					Following legislation requiring WMPs, the CPUC<a
+					Following legislation requiring WMPs, the CPUC <a
 						href="https://energysafety.ca.gov/wp-content/uploads/docs/strategic-roadmap/final_report_wildfiremitigationstrategy_wsd.pdf"
 					>
 						initiated a project</a
@@ -1188,8 +1187,8 @@
 					>the cost and effectiveness of safety-enhancing strategies has been highly uncertain
 					(though perhaps less so today than it used to be).
 				</strong>The separate processes and different timelines between Energy Safety and the CPUC
-				appear to risk slowing safety investments and reducing flexibility to quickly adapt safety
-				strategies as their cost and effectiveness becomes clearer.</span
+				appear to risk slowing safety investments and reduce Energy Safety's flexibility to quickly
+				update guidance as the cost and effectiveness of various safety strategies becomes clearer.</span
 			>
 			<div slot="inner">
 				<li>
@@ -1278,11 +1277,11 @@
 					>This case study highlights the risk of using a licensing scheme to regulate companies
 					that become ‘too-important-to-fail.’
 				</strong>Failing to issue safety certifications to utilities that insufficiently mitigate
-				catastrophic risk would pose risks to utilities and could lead to higher electricity prices.<sup
-					id="fnref11"><a href="#fn11" rel="footnote">11</a></sup
-				> This may make regulators reluctant to ‘pull this lever’ and reduce pressure on utilities to
-				fully comply with safety standards. (A similar challenge could emerge if governments and businesses
-				become dependent on (updates to) AI systems).</span
+				catastrophic risk would threaten utilities' financial standing and could lead to higher
+				electricity prices.<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> This may make
+				regulators reluctant to deny certification, thereby reducing pressure on utilities to fully comply
+				with safety standards. (A similar challenge could emerge if governments and businesses become
+				dependent on (updates to) AI systems).</span
 			>
 			<div slot="inner">
 				<li>
@@ -1346,7 +1345,7 @@
 				<li>
 					‘Reclosers’ - devices that try to reclose a circuit after a fault occurs on a power line,
 					are another example of a voluntary policy becoming part of safety standards (after a
-					disaster, in this case). SDG&E and Southern California Edison have long <a
+					disaster, in this case). SDG&E and SCE have long <a
 						href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
 						>had policies</a
 					>
@@ -1383,7 +1382,7 @@
 			<div slot="inner">
 				<li>
 					One expert indicated to me that the WMP process was designed such that the period for
-					public commitment could allow comparison between utilities to create a race to the top
+					public commitment could allow comparison between utilities to create a race-to-the-top
 					dynamic.
 				</li>
 				<li>
@@ -1469,19 +1468,17 @@
 
 		<Bullet>
 			<span slot="outer"
-				>After causing a devastating wildfire (and depending on the utility level of fault),
-				utilities generally face penalties from the CPUC and courts, in addition to being liable for
-				damages caused to victims. Penalties from courts have generally been small relative to
-				utility revenues. Some CPUC penalties have been much larger, though they are still much
-				smaller than liabilities facing utilities after causing a wildfire.</span
+				>After causing a devastating wildfire, utilities generally face penalties from the CPUC and
+				courts (if they were found to be at fault), in addition to being liable for damages caused
+				to victims. Penalties from courts have generally been small relative to utility revenues.
+				Some CPUC penalties have been much larger, though they are still much smaller than
+				liabilities facing utilities after causing a wildfire.</span
 			>
 			<div slot="inner">
 				<li>
 					Laws that limit fine sizes appear to have kept court-issued penalties to relatively small
-					totals. The statutory maximum fine for violating the Pipeline Safety Act is $500,000 per
-					violation.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> Despite being
-					convicted of 84 counts of manslaughter after its old equipment sparked the Camp Fire, for
-					example, PG&E was only fined
+					totals. Despite being convicted of 84 counts of manslaughter after its old equipment
+					sparked the Camp Fire, for example, PG&E was only fined
 					<a
 						href="https://www.nytimes.com/2020/06/16/business/energy-environment/pge-camp-fire-california-wildfires.html"
 						>$3.5 million</a
@@ -1537,7 +1534,7 @@
 				<li>
 					Still, a <a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">2022 report</a> by
 					the California State Auditor suggested that the CPUC audits could be more consistent and better
-					targeted. “Moreover, the CPUC conducts audits to determine whether utilities are in compliance
+					targeted: “Moreover, the CPUC conducts audits to determine whether utilities are in compliance
 					with rules designed to ensure that they are operating safely, but those audits could be improved
 					to better ensure such compliance, thereby helping mitigate the risk of utility‑caused wildfires.
 					Specifically, the CPUC does not consistently audit all areas in the utilities’ service territories,
