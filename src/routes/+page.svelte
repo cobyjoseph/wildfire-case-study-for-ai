@@ -1082,9 +1082,7 @@
 
 	<Bullet>
 		<span slot="outer"
-			>Still, separating regulatory powers has appeared to lead to several challenges, too. Experts
-			indicated that utilities may have insufficient clarity for how to balance tradeoffs between
-			safety and cost.</span
+			>Still, separating the primary safety regulator from the agency that controls funding for safety measures has led to several challenges, too. Experts indicated that utilities may have insufficient clarity for how to respond to conflicting directions between the safety regulator and the agency that controls funding.</span
 		>
 		<div slot="inner">
 			<li>
@@ -1142,11 +1140,10 @@
 		<div slot="inner">
 			<li>
 				Utility safety investments are largely beholden to CPUC decisions every four years approving
-				the level of investment utilities can recoup from rates. Though there does appear to be a
-				mechanism for updating rates between every four-year decision, my impression is this
-				four-year timeline largely defines spending, which may limit Energy Safety’s ability to
+				the level of investment utilities can recoup from rates. There is no clear mechanism for
+				updating rates between every four-year decision, which may limit Energy Safety’s ability to
 				mandate continuous safety improvements on a year-to-year basis as evidence on best practices
-				changes (though I am not certain of this point).
+				changes.
 			</li>
 			<li>
 				The CPUC is currently reviewing PG&E’s General Rate Case proposal, and <a
@@ -1178,20 +1175,20 @@
 					href="https://www.sandiegouniontribune.com/business/energy-green/sd-fi-sdge-wildfirecaseruling-20171130-story.html"
 					>CPUC to rule</a
 				>
-				that SDG&E was at fault for devastating 2007 fires. One expert indicated that this
-				“precedent had huge consequences for all three of the state’s largest utilities—especially
-				PG&E,”<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup> and it seems possible that such
-				precedent could have spurred more attention to safety earlier, had SDG&E been found to be at
-				fault more promptly.
+				that SDG&E was at fault for devastating 2007 fires. One expert indicated that this “precedent
+				had huge consequences for all three of the state’s largest utilities—especially PG&E,”<sup
+					id="fnref9"><a href="#fn9" rel="footnote">9</a></sup
+				> and it seems possible that such a precedent could have spurred more attention to safety earlier,
+				had SDG&E been found to be at fault more promptly.
 			</li>
 			<li>
 				Even in recent years, Energy Safety appears to have incomplete information about utility
 				compliance with prior WMPs when evaluating subsequent WMPs. For example, Energy Safety only
-				released a review of PG&E’s compliance with its 2020 WMP by February 2023.<sup id="fnref10"
+				released a review of PG&E’s compliance with its 2020 WMP in February 2023.<sup id="fnref10"
 					><a href="#fn10" rel="footnote">10</a></sup
 				>
-				(It found “that PG&E failed to substantially comply with its 2020 WMP, which “hindered its
-				ability to reduce the risk of catastrophic wildfire on its system.”)
+				(It found “that PG&E failed to substantially comply with its 2020 WMP, which “hindered its ability
+				to reduce the risk of catastrophic wildfire on its system.”)
 				<ul>
 					<li>
 						A <a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">2022 report</a> from the
@@ -1271,30 +1268,272 @@
 		</div>
 	</Bullet>
 
-	<!-- TEMPLATE -->
+	<h2>Influence of voluntary safety actions</h2>
 
 	<Bullet>
-		<span slot="outer">This is the outer content.</span>
+		<span slot="outer"
+			>Early voluntary safety practices by San Diego Gas and Electric (SDG&E) appear to have
+			influenced subsequent safety standards applied to all large utilities. SDG&E <a
+				href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
+				>upgraded fire prevention efforts</a
+			> after it was sued by residents for causing a devastating wildfire in 2007. Since then, it undertook
+			a wide range of voluntary safety practices, and was significantly more supportive of regulation
+			attempts than other utilities, especially PG&E.</span
+		>
 		<div slot="inner">
-			<li>First item of the list</li>
-			<li>Second item of the list</li>
+			<li>
+				SDG&E <a
+					href="https://www.psehealthyenergy.org/news/blog/preventing-wildfires-with-power-outages-2/"
+					>requested approval</a
+				>
+				from the CPUC to use
+				<a href="https://www.cpuc.ca.gov/psps/">Public Safety Power Shutoffs</a> (PSPSs) for fire prevention
+				in 2008, but was denied. The CPUC allowed utilities to use PSPSs starting in 2012, and they have
+				since become an important (though undesirable) fire prevention tool for utilities.
+			</li>
+			<li>
+				‘Reclosers’ - devices that try to reclose a circuit after a fault occurs on a power line,
+				are another example of a voluntary policy becoming part of safety standards (after a
+				disaster, in this case). SDG&E and Southern California Edison have long <a
+					href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+					>had policies</a
+				>
+				to block reclosers during fire season. PG&E did not have such a policy before its reclosers may
+				have contributed to a 2017 fire that killed three people. This led to a
+				<a
+					href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB901%27"
+					>bill</a
+				> requiring safety policies for reclosers.
+			</li>
+			<li>
+				More broadly, state officials <a
+					href="https://www.nytimes.com/interactive/2019/03/18/business/pge-california-wildfires.html"
+					>have reportedly indicated</a
+				> that SDG&E could serve as a template for PG&E as it relates to safety measures. In the late
+				2010s, PG&E’s vice president for community wildfire safety said PG&E often used SDG&E’s approach
+				to implement safety policies.
+			</li>
+			<li>
+				SDG&E was more supportive of policies <a
+					href="https://www.pbs.org/wgbh/frontline/article/pge-california-wildfire-safety-pushback/"
+					>proposed by activists in 2008</a
+				> than other utilities, though it is unclear to me whether its support was influential, as the
+				policies were not implemented until many years later.
+			</li>
 		</div>
 	</Bullet>
 
 	<Bullet>
-		<span slot="outer">This is the outer content.</span>
+		<span slot="outer"
+			>Regulators cite peer utilities’ safety practices when evaluating WMPs. This competitive
+			pressure appears to embed (sometimes voluntary) best practices into safety standards.
+		</span>
 		<div slot="inner">
-			<li>First item of the list</li>
-			<li>Second item of the list</li>
-			<InnerBullet>
-				<span slot="outer">testing this</span>
-				<span slot="inner">
-					<li>First item of the list</li>
-				</span>
-			</InnerBullet>
-			<!-- Add as many list items as needed -->
+			<li>
+				One expert indicated to me that the WMP process was designed such that the period for public
+				commitment could allow comparison between utilities to create a race to the top dynamic.
+			</li>
+			<li>
+				The following quote from Energy Safety’s Revision Notice to PG&E’s proposed 2023-2025 WMP
+				provides one example of how utilities are evaluated against one another.<sup id="fnref12"
+					><a href="#fn12" rel="footnote">12</a></sup
+				> Energy Safety requires PG&E undertake “benchmarking with SCE and SDG&E with respect to hazard
+				tree mitigation practices. PG&E then must report in its Revision Notice Response on the similarities
+				and differences between the three electrical corporations’ hazard tree mitigation practices.
+				Where these practices differ, PG&E must explain why its practices differ from those of its peers.
+				PG&E must also describe any changes it plans to make because of this exercise and a timeline
+				to implement those changes.”
+			</li>
 		</div>
 	</Bullet>
+
+	<h2>Risk assessment</h2>
+
+	<Bullet>
+		<span slot="outer"
+			>For many years, regulators and utilities appear to have had insufficient urgency to develop a
+			robust and detailed risk identification and prioritization methodology, though risks are
+			dramatically better understood and modeled today.</span
+		>
+		<div slot="inner">
+			<li>
+				As one example, it took roughly <a
+					href="https://financialpost.com/pmn/business-pmn/maui-fire-lays-bare-utility-missteps-mirrored-across-the-country"
+					>ten years</a
+				> for maps of high risk areas to be created after regulators began such an effort in 2008.
+			</li>
+			<li>
+				In the late 2010s, one expert described to me that the CPUC underwent a process for better
+				risk identification and assessment (across all utility activities, not just wildfire
+				safety). The expert indicated that the utilities were adversarial during the process,
+				including strongly (but unsuccessfully) resisting the proposal for risks to be quantified.
+			</li>
+			<li>
+				Experts indicated that risks are much better mapped and modeled today than in previous
+				years. Utilities are responsible for modeling risk, and regulators rely on experts for
+				detailed review of utility models.
+			</li>
+			<li>
+				Still, a <a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf"
+					>2022 California State audit suggested</a
+				> that Energy Safety didn’t require clear enough prioritization of high risk activities: “the
+				office approved utilities’ 2020 and 2021 mitigation plans even though the utilities had not provided
+				sufficient information on how they used risk modeling outcomes to inform decision-making processes,
+				circuit prioritization for mitigation efforts, and mitigation selection.”
+			</li>
+			<li>
+				This may have changed in the past two years, as one expert suggested that risk modeling now
+				acts as an umbrella over WMP evaluation, and increased focus on risk modeling has become a
+				core piece of making safety policies more proactive.
+			</li>
+		</div>
+	</Bullet>
+
+	<Bullet>
+		<span slot="outer"
+			>Still, some experts argue that risk models may focus too heavily on median wildfire risk
+			rather than potential catastrophic fires.
+		</span>
+		<div slot="inner">
+			<li>
+				One expert indicated that fire risk models - while highly detailed - are still better suited
+				for modeling the average type of fire, and fail to simulate extreme cases well. Another
+				expert said that utilities have the choice to submit two types of analyses, one on tail risk
+				and one on mean risk. The expert said they generally chose to submit an analysis of the mean
+				risk (which partially covers tail risk). This expert indicated that the degree to which tail
+				risk should motivate decision makers is an ongoing question.
+			</li>
+			<li>
+				In October 2023, too, a longtime activist and wildfire safety consultant released a <a
+					href="https://www.sciencedirect.com/science/article/abs/pii/S0379711223001479">paper</a
+				> arguing that models “incorrectly prioritize risk drivers” and “fail to represent large fires
+				due to limited run time.” It is not clear to me how widely held this belief is among experts.
+			</li>
+		</div>
+	</Bullet>
+
+	<h2>Audits and penalties</h2>
+
+	<Bullet>
+		<span slot="outer"
+			>After causing a devastating wildfire (and depending on the utility level of fault), utilities
+			generally face penalties from the CPUC and courts, in addition to being liable for damages
+			caused to victims. Penalties from courts have generally been small relative to utility
+			revenues. Some CPUC penalties have been much larger, though they are still much smaller than
+			liabilities facing utilities after causing a wildfire.</span
+		>
+		<div slot="inner">
+			<li>
+				Laws that limit fine sizes appear to have kept court-issued penalties to relatively small
+				totals. The statutory maximum fine for violating the Pipeline Safety Act is $500,000 per
+				violation.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> Despite being
+				convicted of 84 counts of manslaughter after its old equipment sparked the Camp Fire, for
+				example, PG&E was only fined
+				<a
+					href="https://www.nytimes.com/2020/06/16/business/energy-environment/pge-camp-fire-california-wildfires.html"
+					>$3.5 million</a
+				>
+				by the court (PG&E had a
+				<a href="https://www.macrotrends.net/stocks/charts/PCG/pacific-gas-electric/gross-profit"
+					>~$17 billion</a
+				>
+				annual gross profit from 2022-2023). In her book <em>California Burning</em>, Katherine
+				Blunt described several examples in which lawyers attempted to pursue meaningfully large
+				penalties against utilities but were limited by statutory maximums.
+			</li>
+			<li>
+				Penalties issued by the CPUC against utilities can be meaningfully large, though my
+				impression is their threat is not nearly as influential on utility behavior as potential
+				liabilities utilities face after causing a fire. This <a
+					href="https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-staff-propose-$45-million-penalty-for-pge-over-dixie-fire"
+					>partial list</a
+				>
+				of penalties issued against PG&E shows several over $100 million, and the largest reached
+				<a
+					href="https://www.utilitydive.com/news/cpuc-imposes-largest-ever-penalty-of-19b-on-pge-for-northern-california/577625/#:~:text=The%20California%20Public%20Utilities%20Commission,grim%20chapter%20in%20PG%26E's%20history%2C%E2%80%9D"
+					>$1.9 billion</a
+				>
+				following PG&E sparking the Camp Fire that killed 85 people. Still, these pale in comparison
+				to
+				<a
+					href="https://www.nytimes.com/2021/11/01/business/energy-environment/pge-dixie-fire.html#:~:text=PG%26E%20filed%20for%20bankruptcy%20protection,town%20of%20Paradise%20in%202018."
+					>tens of billions</a
+				> of dollars in liabilities that utilities have faced after causing devastating fires.
+			</li>
+		</div>
+	</Bullet>
+
+	<Bullet>
+		<span slot="outer"
+			>The CPUC does not appear to substantially use audits and penalties to punish utilities for
+			failing to comply with its WMP.</span
+		>
+		<div slot="inner">
+			<li>
+				Audits are conducted by a range of actors at various (including random) times. This appears
+				to <a href="https://energysafety.ca.gov/wp-content/uploads/2022-wmp-compliance-process.pdf"
+					>include</a
+				> field inspections conducted by Energy Safety, annual compliance reports conducted by the utility,
+				an audit by an independent evaluator hired by the utility (from an approved list), and vegetation
+				management audits conducted by Energy Safety. One expert also indicated to me that some individual
+				counties also conduct their own auditing. I don’t believe this list above is exhaustive, as experts
+				have mentioned other CPUC and Energy Safety audits that don’t necessarily fit into those categories
+				above.
+			</li>
+			<li>
+				Still, a <a href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">2022 report</a> by the
+				California State Auditor suggested that the CPUC audits could be more consistent and better targeted.
+				“Moreover, the CPUC conducts audits to determine whether utilities are in compliance with rules
+				designed to ensure that they are operating safely, but those audits could be improved to better
+				ensure such compliance, thereby helping mitigate the risk of utility‑caused wildfires. Specifically,
+				the CPUC does not consistently audit all areas in the utilities’ service territories, it did
+				not audit several areas that include high fire-threat areas.”
+			</li>
+			<li>
+				It also appears that the CPUC does not meaningfully issue penalties when it finds utilities
+				are failing to execute their WMPs. The same <a
+					href="https://www.auditor.ca.gov/pdfs/reports/2021-117.pdf">report</a
+				>
+				stated that the CPUC “does not use its authority to penalize utilities when its audits uncover
+				violations.” The following bullet points from the same report provide examples (bolding by me).
+				<ul>
+					<li>
+						“In 2014 the CPUC adopted an electric safety citation program that gave staff the
+						authority to issue penalties for certain violations of law and of General Orders,
+						including those identified through audits. <strong
+							>However, as of November 2021, the CPUC had not issued any penalties resulting from
+							violations that its safety and enforcement division found during audits.
+						</strong>The safety and reliability program manager informed us that it is the CPUC’s
+						practice to issue penalties for significant issues, which may be found through incident
+						investigations where individuals were hurt or killed, or where buildings were destroyed,
+						but that these types of immediate safety hazards are rarely found during audits.”
+					</li>
+					<li>
+						“In our review of CPUC audits, we identified several instances where the CPUC identified
+						violations of General Orders that were the same as those for which it issued penalties
+						in incident investigations. For example, the CPUC issued a $2.5 million penalty to a
+						utility in 2021 for nearly 55,000 violations of a General Order requiring inspections of
+						distribution poles, and we found that the CPUC had identified similar issues in at least
+						two of its distribution district audits. The CPUC identified more than 200 violations of
+						the same General Order in one 2020 distribution district audit, and about 2,400 similar
+						violations in a second 2020 distribution district audit. Additionally, we found that in
+						2017 the CPUC issued a $50,000 penalty to a utility for a single violation of a General
+						Order requiring vegetation management. <strong
+							>Although we identified three audits that the CPUC performed in 2019 and 2020 that
+							identified similar violations, it did not issue any penalties for those violations.</strong
+						>”
+					</li>
+				</ul>
+			</li>
+		</div>
+	</Bullet>
+
+	<p class="mt-5">
+		If you have any comments or questions about this case study, feel free to email me at <a
+			href="mailto:coby.joseph@gmail.com">coby.joseph@gmail.com</a
+		>.
+	</p>
+	<p class="mt-5 underline">Return to top</p>
 
 	<!-- You can continue adding more sections as needed -->
 	<div class="h-[1px] w-[50%] bg-white mt-10" />
