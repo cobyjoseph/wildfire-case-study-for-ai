@@ -160,8 +160,7 @@
 			<li>
 				<a href="#8">
 					Strict, no-fault, legal liability on utilities has been hugely important in shaping
-					utility incentives. Still, it hasn't forced all utilities to take sufficient actions
-					around safety.
+					utility incentives. Still, it hasn't forced all utilities to take sufficient safety precautions.
 				</a>
 			</li>
 			<li>
