@@ -538,15 +538,14 @@
 			<ul>
 				<li>
 					Until legislation required stricter regulation (particularly starting in 2017), regulators
-					lacked sufficient capacity and will to impose rules in the face of opposition from most
+					lacked sufficient capacity and will to promptly impose rules in the face of opposition from most
 					utilities.
 				</li>
 				<li>
-					It then took several years to determine an appropriate regulatory framework and build
-					internal expertise.
+					Following legislation, it took several years to build internal regulatory structure and expertise.
 				</li>
 				<li>
-					This was followed by a year or two during which regulators approved substandard safety
+					For the first year or two under new regulatory structure, regulators approved substandard safety
 					plans on the condition that utilities would build capacity for improving safety over time.
 				</li>
 			</ul>
