@@ -160,14 +160,15 @@
 			<li>
 				<a href="#8">
 					Strict, no-fault, legal liability on utilities has been hugely important in shaping
-					utility incentives. Still, it hasn't forced all utilities to take sufficient safety precautions.
+					utility incentives. Still, it hasn't forced all utilities to take sufficient safety
+					precautions.
 				</a>
 			</li>
 			<li>
 				<a href="#9">
-					In the face of legal liability, penalties (or their threat) do not appear to have played an important
-					role in motivating utility behavior, though some suggest they could be used more
-					frequently and strongly.
+					In the face of legal liability, penalties (or their threat) do not appear to have played
+					an important role in motivating utility behavior, though some suggest they could be used
+					more frequently and strongly.
 				</a>
 			</li>
 			<li>
@@ -528,9 +529,10 @@
 			<li id="1">
 				When starting from a low base, creating and enforcing standards can be a lengthy process –
 				it took roughly 5-10+ years after it was clear that catastrophic risk was present and rising
-				for standards to be created and have a meaningful impact across all utilities. This point is
-				summarized in the bullets below and explored in more detail in <a href="#evolutionTextBox"
-					>this text box.</a
+				for standards to be created and have a meaningful impact on all utilities. <em
+					>This point is summarized in the bullets below and explored in more detail in <a
+						href="#evolutionTextBox">this text box.</a
+					></em
 				>
 			</li>
 			<ul>
