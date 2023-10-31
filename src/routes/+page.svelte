@@ -165,14 +165,14 @@
 			</li>
 			<li>
 				<a href="#9">
-					In the face of legal liability, penalties (or their threat) have not played an important
+					In the face of legal liability, penalties (or their threat) do not appear to have played an important
 					role in motivating utility behavior, though some suggest they could be used more
 					frequently and strongly.
 				</a>
 			</li>
 			<li>
 				<a href="#10">
-					The State's dependence on utilities for (affordable) electricity has limited regulator
+					California's dependence on utilities for (affordable) electricity has limited regulator
 					leverage to extract safety actions.
 				</a>
 			</li>
@@ -184,14 +184,14 @@
 				<ul>
 					<li>
 						<a href="#12">
-							helped raise the competence of the safety regulation and utility focus on safety
+							helped raise the competence of safety regulation and utility focus on safety
 							practices,
 						</a>
 					</li>
 					<li>
 						<a href="#13">
 							contributed to limiting clarity among all parties on how utilities should best handle
-							safety and economic tradeoffs,
+							safety and economic tradeoffs, and
 						</a>
 					</li>
 					<li>
