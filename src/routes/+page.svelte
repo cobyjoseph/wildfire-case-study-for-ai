@@ -154,7 +154,7 @@
 
 		<p>
 			This case study also explores possible benefits and challenges of several regulatory
-			strategies that could be relevant for the AI safety field.
+			strategies that could be relevant for the AI field.
 		</p>
 		<ul>
 			<li>
