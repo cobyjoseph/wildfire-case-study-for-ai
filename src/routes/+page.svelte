@@ -343,7 +343,7 @@
 				>Energy Safety issues “<a
 					href="https://energysafety.ca.gov/what-we-do/electrical-infrastructure-safety/wildfire-mitigation-and-safety/safety-certifications/safety-certification-faqs/"
 					>safety certifications</a
-				>'' to qualifying utilities. Failure to receive a safety certification would significantly
+				>'' to qualifying utilities. Failure to receive a safety certification could significantly
 				harm a utility’s financial standing.</span
 			>
 			<div slot="inner">
@@ -545,8 +545,8 @@
 					Following legislation, it took several years to build internal regulatory structure and expertise.
 				</li>
 				<li>
-					For the first year or two under new regulatory structure, regulators approved substandard safety
-					plans on the condition that utilities would build capacity for improving safety over time.
+					For the first year or two under new regulatory structure, regulators approved safety
+					plans with serious deficiencies on the condition that utilities would build capacity for improving safety over time.
 				</li>
 			</ul>
 		</ul>
@@ -826,8 +826,7 @@
 				<li>
 					Utilities face significant reputational challenges. PG&E in particular has received
 					significant negative publicity for many years related to wildfires. Its employees live
-					among their customers, and according to one expert, employees have received death threats
-					and been shot at while working.
+					among their customers, and according to one expert, employees have faced significant safety concerns while in the field due to apparent threats from members of the general public.
 				</li>
 			</ul>
 		</ul>
