@@ -29,16 +29,14 @@
 				It represents ~65 hours of research, interviews, and writing. I am grateful to
 				<a href="https://law.stanford.edu/directory/michael-wara/">Michael Wara</a>
 				(Stanford Law School Senior Research Scholar and consultant for wildfire risk to the California
-				Office of Energy Infrastructure Safety),
+				Office of Energy Infrastructure Safety), Melissa Semcer (former Deputy Director of Energy Safety
+				and Principal at Climate Wildfire and Energy Strategies, LLC),
 				<a href="https://www.turn.org/tlong">Tom Long</a>
 				(Director of Legal Strategy at TURN),
 				<a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder
 				and President at
 			</em>Adams, Broadwell, Joseph, & Cardozo
-			<em>
-				and my father), and one other expert with knowledge of the Office of Energy Infrastructure
-				Safety who chose to remain anonymous to allow me to interview them for this case study.
-			</em>
+			<em> and my father) to allow me to interview them for this case study. </em>
 		</p>
 
 		<h1 id="background">Background and overview</h1>
@@ -538,15 +536,17 @@
 			<ul>
 				<li>
 					Until legislation required stricter regulation (particularly starting in 2017), regulators
-					lacked sufficient capacity and will to promptly impose rules in the face of opposition from most
-					utilities.
+					lacked sufficient capacity and will to promptly impose rules in the face of opposition
+					from most utilities.
 				</li>
 				<li>
-					Following legislation, it took several years to build internal regulatory structure and expertise.
+					Following legislation, it took several years to build internal regulatory structure and
+					expertise.
 				</li>
 				<li>
-					For the first year or two under new regulatory structure, regulators approved safety
-					plans with serious deficiencies on the condition that utilities would build capacity for improving safety over time.
+					For the first year or two under new regulatory structure, regulators approved safety plans
+					with serious deficiencies on the condition that utilities would build capacity for
+					improving safety over time.
 				</li>
 			</ul>
 		</ul>
@@ -826,7 +826,9 @@
 				<li>
 					Utilities face significant reputational challenges. PG&E in particular has received
 					significant negative publicity for many years related to wildfires. Its employees live
-					among their customers, and according to one expert, employees have faced significant safety concerns while in the field due to apparent threats from members of the general public.
+					among their customers, and according to one expert, employees have faced significant
+					safety concerns while in the field due to apparent threats from members of the general
+					public.
 				</li>
 			</ul>
 		</ul>
