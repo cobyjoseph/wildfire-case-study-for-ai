@@ -1478,8 +1478,9 @@
 			<div slot="inner">
 				<li>
 					Laws that limit fine sizes appear to have kept court-issued penalties to relatively small
-					totals. Despite being convicted of 84 counts of manslaughter after its old equipment
-					sparked the Camp Fire, for example, PG&E was only fined
+					totals.<sup id="fnref13"><a href="#fn13" rel="footnote">13</a></sup> Despite being
+					convicted of 84 counts of manslaughter after its old equipment sparked the Camp Fire, for
+					example, PG&E was only fined
 					<a
 						href="https://www.nytimes.com/2020/06/16/business/energy-environment/pge-camp-fire-california-wildfires.html"
 						>$3.5 million</a
