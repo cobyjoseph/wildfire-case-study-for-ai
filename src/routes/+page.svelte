@@ -33,7 +33,7 @@
 				<a href="https://www.linkedin.com/in/melissasemcer/">Melissa Semcer </a>(former Deputy
 				Director of Energy Safety and Principal at Climate Wildfire and Energy Strategies, LLC),
 				<a href="https://www.turn.org/tlong">Tom Long</a>
-				(Director of Legal Strategy at TURN),
+				(Director of Legal Strategy at TURN), and
 				<a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder
 				and President at
 			</em>Adams, Broadwell, Joseph, & Cardozo
