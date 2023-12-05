@@ -29,8 +29,9 @@
 				It represents ~65 hours of research, interviews, and writing. I am grateful to
 				<a href="https://law.stanford.edu/directory/michael-wara/">Michael Wara</a>
 				(Stanford Law School Senior Research Scholar and consultant for wildfire risk to the California
-				Office of Energy Infrastructure Safety), Melissa Semcer (former Deputy Director of Energy Safety
-				and Principal at Climate Wildfire and Energy Strategies, LLC),
+				Office of Energy Infrastructure Safety),
+				<a href="https://www.linkedin.com/in/melissasemcer/">Melissa Semcer </a>(former Deputy
+				Director of Energy Safety and Principal at Climate Wildfire and Energy Strategies, LLC),
 				<a href="https://www.turn.org/tlong">Tom Long</a>
 				(Director of Legal Strategy at TURN),
 				<a href="http://www.adamsbroadwell.com/attorneys/marc-d-joseph1/">Marc Joseph</a> (former shareholder
