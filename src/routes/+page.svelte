@@ -555,7 +555,7 @@
 			<span id="2" slot="outer"
 				>Amid a changing risk landscape, utilities have appeared not to take tail risk sufficiently
 				seriously until they experience it first hand, even when such risk would threaten company
-				profits. More concerningly, regulators have generaly not mandated substantially stricter
+				profits. More concerningly, regulators have generally not mandated substantially stricter
 				safety standards for utilities until that utility has caused a disaster. <strong>
 					Some events that look like ‘warning shots’ in hindsight did not sufficiently spur urgent
 					safety improvements.
