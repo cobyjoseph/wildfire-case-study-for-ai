@@ -14,7 +14,9 @@
 				Case study: Safety standards on California utilities to prevent wildfires
 			</div>
 			<div class="text-xs">
-				<div class="mt-1">Coby Joseph</div>
+				<div class="mt-1">
+  <a href="https://www.linkedin.com/in/coby-joseph-59701135/" target="_blank">Coby Joseph</a>
+</div>
 				<div class="mt-1">October 26, 2023</div>
 			</div>
 		</div>
